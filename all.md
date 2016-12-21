@@ -1,3 +1,8 @@
+---
+layout: post
+title: All posts
+---
+
 <ul>
   {% for post in site.posts %}
     <li>

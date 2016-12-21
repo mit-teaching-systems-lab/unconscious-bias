@@ -1,0 +1,13 @@
+.page-header-small {
+  background-image: url('/images/tesselation.png');
+  padding: 2rem 3rem;
+  text-align: center;
+}
+
+.page-header-small > h1,h2 {
+  color: white;
+}
+
+.tweets {
+  width: 50%;
+}

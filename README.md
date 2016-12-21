@@ -1,6 +1,6 @@
 <a href="{{site.github.repository_url}}/edit/master/README.md">Edit this page</a>
 
-![diversity-problem]({{site.url}}/images/diversity-problem.png)
+![diversity-problem]({{site.baseurl}}/images/diversity-problem.png)
 
 ## Our focus
 As we scale access to formal and informal educational opportunities to engage with computational thinking and computer science, there's an opportunity to spread values of equity and cultural competency in teaching that can help create an inclusive community.
@@ -13,7 +13,7 @@ From Google's whitepaper:
 > The presence of UB among teachers is likely to be particularly consequential. Teachers are on the front lines of society’s efforts to promote equality of opportunity. They spend a substantial amount of structured time with children over their developmental trajectories. When the UBs of well-intentioned teachers influence their judgment towards particular students (e.g., by race, ethnicity, gender), it can influence their instructional practices, the expectations they convey, and their recommendations for relevant outcomes like course placement, special education, and discipline. For example, recent research indicates that non-Black teachers have significantly lower expectations of Black students (Gershenson, Holt, & Papageorge, 2016). Even subtle aspects of classroom environments, such as the gender ratio of students in a class or posters associated with masculine CS stereotypes, can trigger anxiety that affects the performance and academic engagement of females (a phenomenon known as “stereotype threat”). All of these factors can shape students’ own attitudes and expectations about school, and recursively influence their field of study, educational attainment, and choice of employment. Moreover, such biases might provide insights into the mechanisms through which teachers, the most important school-provided educational input, affect long-run labor market success. UB may be particularly salient with respect to supporting student success in STEM and CS, fields that are important for technological innovation and economic growth but where persistent underrepresentation among female and Black and Hispanic students has been a long-standing concern.
 
 ## What can bias in teaching look like?
-- Check out our initial set of [teacher behaviors]({{site.url}}/behaviors.html) that can be influenced by implicit bias.
+- Check out our initial set of [teacher behaviors]({{site.baseurl}}/behaviors.html) that can be influenced by implicit bias.
 - We'd love to [hear from you](https://twitter.com/mit_tsl)!
 
 ## How do students experience bias?

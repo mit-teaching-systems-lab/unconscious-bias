@@ -12,3 +12,5 @@ tagline: Interactive case studies around unconscious bias in K12 teaching
 
 teachermoments:
   demo_url: https://threeflows.herokuapp.com/teachermoments/demo
+
+baseurl: /unconscious-bias

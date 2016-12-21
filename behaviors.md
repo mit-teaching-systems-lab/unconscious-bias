@@ -3,13 +3,17 @@ layout: post
 title: All behaviors
 ---
 
-<ul>
-{% for key in site.data.behavior_sets %}
-  {% assign behavior = site.data.behavior_sets[key] %}
-  {% for behavior in behavior_set %}
-    <li>
-      {{ behavior }}
-    </li>
-  {% endfor %}
+
+{% for behavior_set in site.data.behavior_sets %}
+  {% assign context = behavior_set[0] %}
+  {% assign behavior = behavior_set[1] %}
+  <div>
+    <h6>{{ context }}</h6>
+    <ul>
+    {% for behavior in behavior_set %}
+      <li>{{ behavior }}</li>
+    {% endfor %}
+    </ul>
+    </div>
+  </div>
 {% endfor %}
-</ul>

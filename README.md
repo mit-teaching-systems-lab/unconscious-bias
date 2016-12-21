@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+<a href="{{site.github.repository_url}}/edit/master/README.md">Edit this page</a>
 
-You can use the [editor on GitHub](https://github.com/mit-teaching-systems-lab/unconscious-bias/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![diversity-problem]({{site.url}}/images/diversity-problem.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Our focus
+As we scale access to formal and informal educational opportunities to engage with computational thinking and computer science, there's an opportunity to spread values of equity and cultural competency in teaching that can help create an inclusive community.
 
-### Markdown
+Since these issues are similar in other fields like math, science and engineering more broadly, we'll also learn from and work with folks in other STEM fields.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What does implicit bias have to do with this?
+From Google's whitepaper:
 
-```markdown
-Syntax highlighted code block
+> The presence of UB among teachers is likely to be particularly consequential. Teachers are on the front lines of society’s efforts to promote equality of opportunity. They spend a substantial amount of structured time with children over their developmental trajectories. When the UBs of well-intentioned teachers influence their judgment towards particular students (e.g., by race, ethnicity, gender), it can influence their instructional practices, the expectations they convey, and their recommendations for relevant outcomes like course placement, special education, and discipline. For example, recent research indicates that non-Black teachers have significantly lower expectations of Black students (Gershenson, Holt, & Papageorge, 2016). Even subtle aspects of classroom environments, such as the gender ratio of students in a class or posters associated with masculine CS stereotypes, can trigger anxiety that affects the performance and academic engagement of females (a phenomenon known as “stereotype threat”). All of these factors can shape students’ own attitudes and expectations about school, and recursively influence their field of study, educational attainment, and choice of employment. Moreover, such biases might provide insights into the mechanisms through which teachers, the most important school-provided educational input, affect long-run labor market success. UB may be particularly salient with respect to supporting student success in STEM and CS, fields that are important for technological innovation and economic growth but where persistent underrepresentation among female and Black and Hispanic students has been a long-standing concern.
 
-# Header 1
-## Header 2
-### Header 3
+## What can bias in teaching look like?
+- Check out our initial set of [teacher behaviors]({{site.url}}/behaviors.html) that can be influenced by implicit bias.
+- We'd love to [hear from you](https://twitter.com/mit_tsl)!
 
-- Bulleted
-- List
+## How do students experience bias?
+- [Sepehr Vakil](https://education.utexas.edu/faculty/sepehr_vakil) has done excellent field work on how students of different races, ethnicities and genders experience computer science education.
+- If you're a student, or work directly with students we'd love to [hear from you](https://twitter.com/mit_tsl) and help share your experience.
 
-1. Numbered
-2. List
+## How can teachers and educators improve?
+- Practice checking your bias in [interactive case studies]({{site.teachermoments.demo_url}}).
+- [Student Engagement Strategies Guide](https://docs.google.com/document/d/12UtpMG-u9qbZe84ZngOYF_ISdkLFdPFzbDw7M7DNdQo/edit)
+- [Apps for Social Justice: Motivating Computer Science Learning with Design and Real-World Problem Solving](http://tap2k.org/papers/iti120-vanwart.pdf)
 
-**Bold** and _Italic_ and `Code` text
+## What else can we do?
+A lot!
 
-[Link](url) and ![Image](src)
-```
+There's lots of work to build the capacity of teacher preparation programs:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Certificate in Computer Science Education](Certificate in Computer Science Education) from St. Scholastica
+- [WeTeach_CS](https://www.weteachcs.org/) from UT Austin's Center for STEM Education
+- [Foundations of Computer Science for Teachers](https://www.edx.org/course/foundations-computer-science-teachers-utaustinx-ut-wtcs-15-01x) online course
+- [Alliance for California Computing Education for Students and Schools](http://access-ca.org/)
 
-### Jekyll Themes
+And work to investigate how to help teachers promote access and equity:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mit-teaching-systems-lab/unconscious-bias/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Jason Okonofua](http://www.jokonofua.com/), UC Berkeley
+- [Justin Reich](http://www.edtechresearcher.com/), MIT
 
-### Support or Contact
+And many efforts to increase access for students:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Computer Science For All](https://www.whitehouse.gov/blog/2016/01/30/computer-science-all)
+- [code.org](https://code.org/)
+- [Google RISE](https://www.google.com/edu/resources/programs/google-rise-awards/)
+- [Scratch](https://scratch.mit.edu/) and [ScratchEd](http://scratched.gse.harvard.edu/)
+- [Project GUTS](http://www.projectguts.org/)
+- [MIT App Inventor](http://appinventor.mit.edu/)
+
+## What are approaches to teaching computational thinking?
+- [Exploring Computational Thinking](https://www.google.com/edu/resources/programs/exploring-computational-thinking/)
+- [Paving the Way for Computational Thinking](http://delivery.acm.org/10.1145/1380000/1378713/p25-guzdial.pdf?ip=18.189.109.158&id=1378713&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDE5F786C30E1A3B4%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=877066529&CFTOKEN=58728478&__acm__=1482273654_ba3c7b5a599771bdfd521898ea0d10d0)
+- [Computational thinking with Scratch](http://scratched.gse.harvard.edu/ct/defining.html)
+- [Operational Definition of Computational Thinking](http://www.projectguts.org/files/CompThinkingFlyer.pdf)
+- [Computational Thinking](http://www.projectguts.org/files/Wing06-ct.pdf)
+
+
+## Where can I learn more?
+- [Google's Computer Science Education Research](https://www.google.com/edu/resources/computerscience/research/)
+- [Diversity Gaps in Computer Science: Exploring the Underrepresentation of Girls, Blacks and Hispanics (Google, 2016)](http://services.google.com/fh/files/misc/diversity-gaps-in-computer-science-report.pdf)
+- [Unconscious Bias at work](https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/watch-unconscious-bias-at-work/)
+
+## We'd love to hear from you!
+- [MIT Teaching Systems Lab](http://tsl.mit.edu)
+- [@mit_tsl](https://twitter.com/@mit_tsl)
+
+<div class="tweets">
+  <a class="twitter-timeline" href="https://twitter.com/mit_tsl">Tweets by mit_tsl</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>

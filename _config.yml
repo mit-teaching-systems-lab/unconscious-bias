@@ -1,1 +1,14 @@
 theme: jekyll-theme-cayman
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "small"
+
+# cayman overrides
+title: unconscious-bias
+tagline: Interactive case studies around unconscious bias in K12 teaching
+
+teachermoments:
+  demo_url: https://threeflows.herokuapp.com/teachermoments/demo

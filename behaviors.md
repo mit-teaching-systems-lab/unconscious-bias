@@ -12,11 +12,11 @@ title: All behaviors
 
 {% for behavior_set in site.data.behavior_sets %}
   {% assign context = behavior_set[0] %}
-  {% assign behavior = behavior_set[1] %}
+  {% assign behaviors = behavior_set[1] %}
   <div>
     <h6>{{ context }}</h6>
     <ul>
-    {% for behavior in behavior_set %}
+    {% for behavior in behaviors %}
       <li>{{ behavior }}</li>
     {% endfor %}
     </ul>

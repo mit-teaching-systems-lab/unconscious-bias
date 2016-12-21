@@ -1,31 +1,33 @@
-within-classroom:
- - your decision to refer a student to the office
- - the words you choose when praising a student's work or effort
- - your voice tone and body language when giving feedback on their work
- - how you monitor and interact with students during independent work
- - how you monitor and interact with students during group work
- - how you intervene when two students are arguing
- - how long you wait for a student to respond to a question
- - how you assign credit or blame in group work
- - how you intervene when a student makes subtly discriminatory comments
- - how you intervene when a student makes overtly discriminatory comments
- - which real-world examples you use to relate ideas to students
- - how much background knowledge you assume when introducing concepts
- - which students you call on during group discussions
- - how you follow-up when you notice a student struggling in class
- - what kind of personal stories you share with a student
- - how you relate with and talk about a student's life outside of school
- - how you interpret a student's understanding during group discussion
- - how you view a student's communication and collaboration skills
+- name: Within the classroom
+  behaviors:
+  - your decision to refer a student to the office
+  - the words you choose when praising a student's work or effort
+  - your voice tone and body language when giving feedback on their work
+  - how you monitor and interact with students during independent work
+  - how you monitor and interact with students during group work
+  - how you intervene when two students are arguing
+  - how long you wait for a student to respond to a question
+  - how you assign credit or blame in group work
+  - how you intervene when a student makes subtly discriminatory comments
+  - how you intervene when a student makes overtly discriminatory comments
+  - which real-world examples you use to relate ideas to students
+  - how much background knowledge you assume when introducing concepts
+  - which students you call on during group discussions
+  - how you follow-up when you notice a student struggling in class
+  - what kind of personal stories you share with a student
+  - how you relate with and talk about a student's life outside of school
+  - how you interpret a student's understanding during group discussion
+  - how you view a student's communication and collaboration skills
 
-outside-classroom:
- - how you engage with a student's family about their schoolwork
- - how you engage with a student's community outside of school
- - how willing you are to write letter of recommendation
- - the words and tone you choose when writing letters of recommendations
- - how you given written feedback on assignments or projects
- - how you evaluate participation in class
- - how you talk about a student to other educators
- - how well your lesson and unit plans align to the student's cultural strengths
- - how you prioritize competing academic, social, emotional and vocational goals within your classroom
- - how you approach differentiation and personalization in lesson and unit plans
+- name: Outside the classroom
+  behaviors:
+  - how you engage with a student's family about their schoolwork
+  - how you engage with a student's community outside of school
+  - how willing you are to write letter of recommendation
+  - the words and tone you choose when writing letters of recommendations
+  - how you given written feedback on assignments or projects
+  - how you evaluate participation in class
+  - how you talk about a student to other educators
+  - how well your lesson and unit plans align to the student's cultural strengths
+  - how you prioritize competing academic, social, emotional and vocational goals within your classroom
+  - how you approach differentiation and personalization in lesson and unit plans

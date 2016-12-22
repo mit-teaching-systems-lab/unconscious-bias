@@ -1,13 +1,11 @@
 [Edit this page]({{site.github.repository_url}}/edit/master/README.md)
 
-![diversity-problem]({{site.baseurl}}/assets/diversity-problem.png){:width="800px"}
-
 # Why bias matters
 Because equity matters.
 
 As we work to scale access to math, science, arts and engineering learning experiences to more students in the United States, we risk reproducing reproducing enrollment, retention and achievement patterns that do not reflect the whole of society.
 
-As we scale access to formal and informal educational opportunities to engage with computational thinking and computer science, there's an opportunity to spread values of equity and cultural competency in teaching that can help create an inclusive community.  Since these issues are similar in other fields like math, science and engineering more broadly, we'll also learn from and work with folks in other STEM fields.
+As we scale access to formal and informal educational opportunities to engage with computational thinking and computer science, there's an opportunity to spread values of equity and cultural competency in teaching that can help create an inclusive community.  Since these issues of equity and diversity are similar in other fields like math, science and engineering more broadly, we'll also learn from and work with folks in other STEM fields.
 
 Studies across a variety of fields from education, medicine, law enforcement, criminal justice, hiring, rental that people use race, ethnicity and gender in making key decisions that shape people's lives.  Implicit bias in a promising line of research for understanding how this happens and how we can improve.
 

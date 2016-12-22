@@ -5,11 +5,11 @@ Because equity matters.
 
 As we work to scale access to math, science, arts and engineering learning experiences to more students in the United States, we risk reproducing reproducing enrollment, retention and achievement patterns that do not reflect the whole of society.
 
-As we scale access to formal and informal educational opportunities to engage with computational thinking and computer science, there's an opportunity to spread values of equity and cultural competency in teaching that can help create an inclusive community.  Since these issues of equity and diversity are similar in other fields like math, science and engineering more broadly, we'll also learn from and work with folks in other STEM fields.
+This is particularly important for new kinds of STEM opportunities like computational thinking and making.  If we can grow these K12 communities around values like equity and cultural competency, we can create more inclusive communities.  Since these issues of equity and diversity affect K12 math, science and engineering more broadly, there's a lot to learn from and share with folks in other STEM fields.
 
 Studies across a variety of fields from education, medicine, law enforcement, criminal justice, hiring, rental that people use race, ethnicity and gender in making key decisions that shape people's lives.  Implicit bias in a promising line of research for understanding how this happens and how we can improve.
 
-## Gaps in enrollment, discipline and achievement
+## Gaps in enrollment, discipline and achievement in K12
 Black students are more than three times as likely to be suspended or expelled as their white peers ([Office for Civil Rights 2014](http://www2.ed.gov/about/offices/list/ocr/docs/crdc-discipline-snapshot.pdf)).  This difference is visible even in preschool (see [Gilliam 2016](http://ziglercenter.yale.edu/publications/Preschool%20Implicit%20Bias%20Policy%20Brief_final_9_26_276766_5379.pdf)).
 
 > Black and Latino students are 38% of students in schools that offer Algebra
@@ -22,10 +22,6 @@ While female students are generally more successful in K12 settings than male st
 > In high school, the Advanced Placement exam in Computer Science has the worst gender diversity across all courses, with 78 percent participation by men and 22 percent by women. Participation by students of color is 13 percent. ([College Board 2007](http://research.collegeboard.org/sites/default/files/publications/2012/7/researchreport-2007-4-ap-students-college-analysis-five-year-academic-careers.pdf))
 
 This also impact AP mathematics, where boys consistently outnumber girls by up to 10,000 students.  It's even more pronounced in STEM programs in career and technical education, where females only make up 25% of students ([Office for Civil Rights 2012](http://www2.ed.gov/about/offices/list/ocr/docs/gender-equity-in-education.pdf)).
-
-## How does implicit bias fit in?
-While these outcomes show that we have work to do in terms of equity, it's complicated to understand all the factors contributing to these different outcomes and what we can do about it.  One promising line of research from psychology is implicit bias, which has been studied extensively over the last 15 years.
-
 
 
 
@@ -42,11 +38,22 @@ While these outcomes show that we have work to do in terms of equity, it's compl
 # How bias can surface in teaching {#teaching}
 
 ## Teachers' uniquely important role
-Teachers 
+Gershenson, Holt and Papageorge ([2013](http://research.upjohn.org/cgi/viewcontent.cgi?article=1248&context=up_workingpapers)) summarize some hypotheses around how bias in teaching can impact students:
+
+> Indeed, robust evidence suggests gender, racial, and ethnic biases in how teachers grade exams in a variety of contexts (Burgess and Greaves 2013; Cornwell, Mustard, and Van Parys 2013; Hanna and Linden 2012; Lavy 2008). Lavy and Sand (2015) show that grading biases can have long-lasting impacts on academic achievement and course taking in high school. Relatedly, Riegle-Crumb and Humphries (2012) study how math teachers stigmatize female students.”
+
+> Teachers’ expectations might affect student outcomes in at least three ways. First, the perception that teachers have low expectations may exacerbate the harmful effects of stereotype threat, whereby low expectations either cause emotional responses that directly harm performance or cause students to disidentify with educational environments (Steele 1997).
+
+> Second, stigmatized students may modify their expectations, and in turn their behavior, to conform to teachers’ negative biases (Ferguson 2003). In each of the first two cases, teachers’ stigmatization of information-poor racial minority students could create a feedback loop that functions like a self-fulfilling prophecy (Burgess and Greaves 2013; Loury 2009).
+
+>Finally, teachers who stigmatize certain types of students may modify how they teach, evaluate, and advise them, again leading to poor educational outcomes for stigmatized students (Ferguson 2003). All three scenarios potentially perpetuate sociodemographic gaps in educational attainment.“
 
 ## How do students experience bias?
 - [Sepehr Vakil](https://education.utexas.edu/faculty/sepehr_vakil) has done excellent field work on how students of different races, ethnicities and genders experience computer science education.
 - If you're a student, or work directly with students we'd love to [hear from you](https://twitter.com/mit_tsl) and help share your experience.
+
+## How does implicit bias fit in?
+While these outcomes show that we have work to do in terms of equity, it's complicated to understand all the factors contributing to these different outcomes and what we can do about it.  One promising line of research from psychology is implicit bias, which has been studied extensively over the last 15 years.
 
 ## What can bias in teaching look like?
 We've put together an initial set of ways that bias can surface in teaching that may be influenced by implicit bias, and would love your input.

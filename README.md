@@ -1,44 +1,81 @@
-<a href="{{site.github.repository_url}}/edit/master/README.md">Edit this page</a>
+[Edit this page]({{site.github.repository_url}}/edit/master/README.md)
 
-![diversity-problem]({{site.baseurl}}/images/diversity-problem.png)
+![diversity-problem]({{site.baseurl}}/assets/diversity-problem.png){:width="800px"}
 
-## Our focus
-As we scale access to formal and informal educational opportunities to engage with computational thinking and computer science, there's an opportunity to spread values of equity and cultural competency in teaching that can help create an inclusive community.
+# Why bias matters
+Because equity matters.
 
-Since these issues are similar in other fields like math, science and engineering more broadly, we'll also learn from and work with folks in other STEM fields.
+As we work to scale access to math, science, arts and engineering learning experiences to more students in the United States, we risk reproducing reproducing enrollment, retention and achievement patterns that do not reflect the whole of society.
 
-## What does implicit bias have to do with this?
-From Google's whitepaper:
+As we scale access to formal and informal educational opportunities to engage with computational thinking and computer science, there's an opportunity to spread values of equity and cultural competency in teaching that can help create an inclusive community.  Since these issues are similar in other fields like math, science and engineering more broadly, we'll also learn from and work with folks in other STEM fields.
 
-> The presence of UB among teachers is likely to be particularly consequential. Teachers are on the front lines of society’s efforts to promote equality of opportunity. They spend a substantial amount of structured time with children over their developmental trajectories. When the UBs of well-intentioned teachers influence their judgment towards particular students (e.g., by race, ethnicity, gender), it can influence their instructional practices, the expectations they convey, and their recommendations for relevant outcomes like course placement, special education, and discipline. For example, recent research indicates that non-Black teachers have significantly lower expectations of Black students (Gershenson, Holt, & Papageorge, 2016). Even subtle aspects of classroom environments, such as the gender ratio of students in a class or posters associated with masculine CS stereotypes, can trigger anxiety that affects the performance and academic engagement of females (a phenomenon known as “stereotype threat”). All of these factors can shape students’ own attitudes and expectations about school, and recursively influence their field of study, educational attainment, and choice of employment. Moreover, such biases might provide insights into the mechanisms through which teachers, the most important school-provided educational input, affect long-run labor market success. UB may be particularly salient with respect to supporting student success in STEM and CS, fields that are important for technological innovation and economic growth but where persistent underrepresentation among female and Black and Hispanic students has been a long-standing concern.
+Studies across a variety of fields from education, medicine, law enforcement, criminal justice, hiring, rental that people use race, ethnicity and gender in making key decisions that shape people's lives.  Implicit bias in a promising line of research for understanding how this happens and how we can improve.
+
+## Gaps in enrollment, discipline and achievement
+Black students are more than three times as likely to be suspended or expelled as their white peers ([Office for Civil Rights 2014](http://www2.ed.gov/about/offices/list/ocr/docs/crdc-discipline-snapshot.pdf)).  This difference is visible even in preschool (see [Gilliam 2016](http://ziglercenter.yale.edu/publications/Preschool%20Implicit%20Bias%20Policy%20Brief_final_9_26_276766_5379.pdf)).
+
+> Black and Latino students are 38% of students in schools that offer Algebra
+II and 37% of students enrolled in Algebra II; they are 36% of students in
+schools that offer calculus and 21% of students enrolled in calculus; and they are 37% of students in schools that offer physics and
+35% of students enrolled in physics. ([Office for Civil Rights 2016](http://www2.ed.gov/about/offices/list/ocr/docs/2013-14-first-look.pdf)).
+
+While female students are generally more successful in K12 settings than male students, they report liking math and science less than male students ([NCES 2015](http://nces.ed.gov/pubs2015/2015075.pdf)).  In upper high school grades, when students have more choice over their course of study, girls opt-out of specific math and science courses ([Blickenstaff 2006](http://www.tandfonline.com/doi/abs/10.1080/09540250500145072)).
+
+> In high school, the Advanced Placement exam in Computer Science has the worst gender diversity across all courses, with 78 percent participation by men and 22 percent by women. Participation by students of color is 13 percent. ([College Board 2007](http://research.collegeboard.org/sites/default/files/publications/2012/7/researchreport-2007-4-ap-students-college-analysis-five-year-academic-careers.pdf))
+
+This also impact AP mathematics, where boys consistently outnumber girls by up to 10,000 students.  It's even more pronounced in STEM programs in career and technical education, where females only make up 25% of students ([Office for Civil Rights 2012](http://www2.ed.gov/about/offices/list/ocr/docs/gender-equity-in-education.pdf)).
+
+## How does implicit bias fit in?
+While these outcomes show that we have work to do in terms of equity, it's complicated to understand all the factors contributing to these different outcomes and what we can do about it.  One promising line of research from psychology is implicit bias, which has been studied extensively over the last 15 years.
+
+
+
+
+## Where can I learn more?
+- [State of the Science: Implicit Bias Review 2015 (Staats)](http://kirwaninstitute.osu.edu/wp-content/uploads/2015/05/2015-kirwan-implicit-bias.pdf)
+- [Women and science careers: leaky pipeline or gender filter? (Blickenstaff 2006)](http://www.tandfonline.com/doi/abs/10.1080/09540250500145072)
+- [code.org/diversity](https://code.org/diversity)
+- [Google's Computer Science Education Research](https://www.google.com/edu/resources/computerscience/research/)
+- [Diversity Gaps in Computer Science: Exploring the Underrepresentation of Girls, Blacks and Hispanics (Google, 2016)](http://services.google.com/fh/files/misc/diversity-gaps-in-computer-science-report.pdf)
+- [Unconscious Bias at work (Google)](https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/watch-unconscious-bias-at-work/)
+
+---------------------------------------
+
+# How bias can surface in teaching
+
+## Teachers' uniquely important role
+Teachers 
 
 ## What can bias in teaching look like?
-- Check out our initial set of [teacher behaviors]({{site.baseurl}}/behaviors.html) that can be influenced by implicit bias.
-- We'd love to [hear from you](https://twitter.com/mit_tsl)!
+We've put together an initial set of [teacher behaviors]({{site.baseurl}}/behaviors.html) that can be influenced by implicit bias.  We'd love to [hear from you](https://twitter.com/mit_tsl)!
+
+<a href="{{site.baseurl}}/behaviors.html" class="btn tesselation-btn">How bias can surface in teaching</a>
+
 
 ## How do students experience bias?
 - [Sepehr Vakil](https://education.utexas.edu/faculty/sepehr_vakil) has done excellent field work on how students of different races, ethnicities and genders experience computer science education.
 - If you're a student, or work directly with students we'd love to [hear from you](https://twitter.com/mit_tsl) and help share your experience.
 
+---------------------------------------
+
+# How we can improve
+
 ## How can teachers and educators improve?
 - Practice checking your bias in [interactive case studies]({{site.teachermoments.demo_url}}).
+- [Unconscious Bias: When good intentions aren't enough (Fiarman 2016)](../assets/fiarman-2016.pdf)
 - [Student Engagement Strategies Guide](https://docs.google.com/document/d/12UtpMG-u9qbZe84ZngOYF_ISdkLFdPFzbDw7M7DNdQo/edit)
 - [Apps for Social Justice: Motivating Computer Science Learning with Design and Real-World Problem Solving](http://tap2k.org/papers/iti120-vanwart.pdf)
+- [Closing the Racial Discipline Gap in Classrooms by Changing Teacher Practice (Gregory et al. 2016)](http://www.naspjournals.org/doi/abs/10.17105/SPR45-2.171-191?af=R&&code=naps-site)
 
 ## What else can we do?
-A lot!
+A lot!  While we're focused on improving equity in K12 STEM teaching, and helping teachers prepare and practice to create more equitable classroom communities, many other people are working on other aspects of these problems.
 
-There's lots of work to build the capacity of teacher preparation programs:
+There's lots of work to build the capacity of teacher preparation programs in teaching computer science and embedding computational thinking:
 
 - [Certificate in Computer Science Education](Certificate in Computer Science Education) from St. Scholastica
 - [WeTeach_CS](https://www.weteachcs.org/) from UT Austin's Center for STEM Education
 - [Foundations of Computer Science for Teachers](https://www.edx.org/course/foundations-computer-science-teachers-utaustinx-ut-wtcs-15-01x) online course
 - [Alliance for California Computing Education for Students and Schools](http://access-ca.org/)
-
-And work to investigate how to help teachers promote access and equity:
-
-- [Jason Okonofua](http://www.jokonofua.com/), UC Berkeley
-- [Justin Reich](http://www.edtechresearcher.com/), MIT
 
 And many efforts to increase access for students:
 
@@ -49,20 +86,14 @@ And many efforts to increase access for students:
 - [Project GUTS](http://www.projectguts.org/)
 - [MIT App Inventor](http://appinventor.mit.edu/)
 
-## What are approaches to teaching computational thinking?
-- [Exploring Computational Thinking](https://www.google.com/edu/resources/programs/exploring-computational-thinking/)
-- [Paving the Way for Computational Thinking](http://delivery.acm.org/10.1145/1380000/1378713/p25-guzdial.pdf?ip=18.189.109.158&id=1378713&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDE5F786C30E1A3B4%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=877066529&CFTOKEN=58728478&__acm__=1482273654_ba3c7b5a599771bdfd521898ea0d10d0)
-- [Computational thinking with Scratch](http://scratched.gse.harvard.edu/ct/defining.html)
-- [Operational Definition of Computational Thinking](http://www.projectguts.org/files/CompThinkingFlyer.pdf)
-- [Computational Thinking](http://www.projectguts.org/files/Wing06-ct.pdf)
+And researchers are working to investigate how teachers can best promote access and equity:
 
+- [Jason Okonofua](http://www.jokonofua.com/), UC Berkeley
+- [Justin Reich](http://www.edtechresearcher.com/), MIT
+- [Sepehr Vakil](https://education.utexas.edu/faculty/sepehr_vakil), UT Austin
+- [Rochelle Gutierrez](http://education.illinois.edu/faculty/rg1), University of Illinois at Urbana–Champaign
 
-## Where can I learn more?
-- [Google's Computer Science Education Research](https://www.google.com/edu/resources/computerscience/research/)
-- [Diversity Gaps in Computer Science: Exploring the Underrepresentation of Girls, Blacks and Hispanics (Google, 2016)](http://services.google.com/fh/files/misc/diversity-gaps-in-computer-science-report.pdf)
-- [Unconscious Bias at work](https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/watch-unconscious-bias-at-work/)
-
-## We'd love to hear from you!
+# We'd love to hear from you!
 - [MIT Teaching Systems Lab](http://tsl.mit.edu)
 - [@mit_tsl](https://twitter.com/@mit_tsl)
 

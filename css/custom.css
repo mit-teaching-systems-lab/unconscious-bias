@@ -1,7 +1,12 @@
 .page-header-small {
-  background-image: url('../images/tesselation.png');
+  background-image: url('../assets/tesselation.png');
   padding: 2rem 3rem;
   text-align: center;
+}
+
+.tesselation-btn {
+  background-image: url('../assets/tesselation.png');
+  margin-left: 30px;
 }
 
 .page-header-small > h1,h2 {
@@ -14,4 +19,8 @@
 
 .tweets {
   width: 50%;
+}
+
+h1 {
+  font-weight: bold !important; /* override normalize */
 }

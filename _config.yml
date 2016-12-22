@@ -6,10 +6,6 @@ defaults:
     values:
       layout: "small"
 
-# cayman overrides
-title: unconscious-bias
-tagline: Interactive case studies around unconscious bias in K12 teaching
-
 teachermoments:
   demo_url: https://threeflows.herokuapp.com/teachermoments/demo
 

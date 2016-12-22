@@ -1,6 +1,6 @@
 [Edit this page]({{site.github.repository_url}}/edit/master/README.md)
 
-# Why bias matters
+# Why bias matters {#why}
 Because equity matters.
 
 As we work to scale access to math, science, arts and engineering learning experiences to more students in the United States, we risk reproducing reproducing enrollment, retention and achievement patterns that do not reflect the whole of society.
@@ -39,31 +39,31 @@ While these outcomes show that we have work to do in terms of equity, it's compl
 
 ---------------------------------------
 
-# How bias can surface in teaching
+# How bias can surface in teaching {#teaching}
 
 ## Teachers' uniquely important role
 Teachers 
-
-## What can bias in teaching look like?
-We've put together an initial set of [teacher behaviors]({{site.baseurl}}/behaviors.html) that can be influenced by implicit bias.  We'd love to [hear from you](https://twitter.com/mit_tsl)!
-
-<a href="{{site.baseurl}}/behaviors.html" class="btn tesselation-btn">How bias can surface in teaching</a>
-
 
 ## How do students experience bias?
 - [Sepehr Vakil](https://education.utexas.edu/faculty/sepehr_vakil) has done excellent field work on how students of different races, ethnicities and genders experience computer science education.
 - If you're a student, or work directly with students we'd love to [hear from you](https://twitter.com/mit_tsl) and help share your experience.
 
+## What can bias in teaching look like?
+We've put together an initial set of ways that bias can surface in teaching that may be influenced by implicit bias, and would love your input.
+
+<a href="{{site.baseurl}}/behaviors.html" class="btn tesselation-btn">What bias looks like</a>
+
 ---------------------------------------
 
-# How we can improve
+# How we can improve {#improve}
 
 ## How can teachers and educators improve?
-- Practice checking your bias in [interactive case studies]({{site.teachermoments.demo_url}}).
 - [Unconscious Bias: When good intentions aren't enough (Fiarman 2016)](../assets/fiarman-2016.pdf)
 - [Student Engagement Strategies Guide](https://docs.google.com/document/d/12UtpMG-u9qbZe84ZngOYF_ISdkLFdPFzbDw7M7DNdQo/edit)
 - [Apps for Social Justice: Motivating Computer Science Learning with Design and Real-World Problem Solving](http://tap2k.org/papers/iti120-vanwart.pdf)
 - [Closing the Racial Discipline Gap in Classrooms by Changing Teacher Practice (Gregory et al. 2016)](http://www.naspjournals.org/doi/abs/10.17105/SPR45-2.171-191?af=R&&code=naps-site)
+
+<a href="{{site.teachermoments.demo_url}}" class="btn tesselation-btn">Interactive case studies</a>
 
 ## What else can we do?
 A lot!  While we're focused on improving equity in K12 STEM teaching, and helping teachers prepare and practice to create more equitable classroom communities, many other people are working on other aspects of these problems.
@@ -91,7 +91,7 @@ And researchers are working to investigate how teachers can best promote access 
 - [Sepehr Vakil](https://education.utexas.edu/faculty/sepehr_vakil), UT Austin
 - [Rochelle Gutierrez](http://education.illinois.edu/faculty/rg1), University of Illinois at Urbana–Champaign
 
-# We'd love to hear from you!
+# We'd love to hear from you! {#contact}
 - [MIT Teaching Systems Lab](http://tsl.mit.edu)
 - [@mit_tsl](https://twitter.com/@mit_tsl)
 

@@ -1,0 +1,68 @@
+disruptive-behavior:
+  context:
+    school: You are in a public high school
+    class: You're teaching 10th grade algebra with 25 students.
+    month: It's the second week of the year.
+
+scenarios:
+  - behavior: Talking out of turn
+    now: Students have finished a "Do now" and you transition to reviewing the agenda for the day.
+    case: <she> speaks up and says
+
+glock:
+  - Talking out of turn
+  - Verbal aggression
+  - Physical aggression
+  - Destruction
+  - Using a mobile phone
+  - Calling out
+  - Getting out of seat
+  - Swinging the chair
+  - Snapping fingers
+  - Inattentiveness
+  - Whispering
+  - Drawing a picture
+  - Rustling paper
+  - Lack of interest
+
+sullivan:
+  - Talking out of turn
+  - Avoiding doing schoolwork
+  - Disengaging from classroom activities
+  - Being late for class
+  - Disrupting the flow of a lesson
+  - Moving around the room unnecessarily
+  - Making distracting noises intentionally
+  - Mucking around, being rowdy
+  - Making impertinent remarks
+  - Interfering with property
+  - Verbally abusing other students
+  - Using a mobile phone inappropriately
+  - Excluding peers
+  - Spreading rumours
+  - Physically aggressive towards other students
+  - Displaying uncharacteristically erratic behaviours
+  - Using a laptop or iPad inappropriately
+
+choices:
+  nonverbal:
+  - ignore the misbehavior
+  - make eye contact
+  - make a facial expression
+  - make a nonverbal gesture
+
+  verbal:
+  - remind the student of the class rules
+  - redirect the student to the task
+  - make a joke
+  - make a sarcastic comment
+  - encourage the student
+  - ask them to move seats
+  - yell angrily at the student
+  - deliberatily embarrass the student
+
+  escalate:
+  - send the student to the principal
+  - call a school conference
+  - ask the student to stay after class
+  - call for an administrator to come to class

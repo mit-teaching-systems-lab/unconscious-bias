@@ -3,35 +3,30 @@
 # Why bias matters {#why}
 Because equity matters.
 
-As we work to scale access to math, science, arts and engineering learning experiences to more students in the United States, we risk reproducing reproducing enrollment, retention and achievement patterns that do not reflect the whole of society.
+When looking at groups of students in aggregate, there are clear gaps in outcomes for students grouped based on race, ethnicity, gender, disability and class.  This shows up in high-level measures like achievement, retention and graduation even at the national level.  In addition, pathways towards STEM careers are increasingly important to many students, families, educators and policy makers.  Yet the STEM pipeline also shows clear gaps in outcomes for students grouped by race, ethnicity, gender, disability and class.
 
-This is particularly important for new kinds of STEM opportunities like computational thinking and making.  If we can grow these K12 communities around values like equity and cultural competency, we can create more inclusive communities.  Since these issues of equity and diversity affect K12 math, science and engineering more broadly, there's a lot to learn from and share with folks in other STEM fields.
+It's clear that intersectionality is important and students each have their own unique lived experience.  And that the cultures of different schools, cities and regions shape student experiences as well.  Nevertheless, high-level gaps in students outcomes based on single demographic characteristics reveal critical equity issues in the education system that should be targeted for research and intervention.
 
-Studies across a variety of fields from education, medicine, law enforcement, criminal justice, hiring, rental that people use race, ethnicity and gender in making key decisions that shape people's lives.  Implicit bias in a promising line of research for understanding how this happens and how we can improve.
+As the [MIT Teaching Systems Lab](http://tsl.mit.edu/) works with K12 educators, teacher preparation programs, and other organizations to scale access to new STEM opportunities, we all risk replicating these gaps in areas like computational thinking and making.
 
-## Gaps in enrollment, discipline and achievement in K12
-Black students are more than three times as likely to be suspended or expelled as their white peers ([Office for Civil Rights 2014](http://www2.ed.gov/about/offices/list/ocr/docs/crdc-discipline-snapshot.pdf)).  This difference is visible even in preschool (see [Gilliam 2016](http://ziglercenter.yale.edu/publications/Preschool%20Implicit%20Bias%20Policy%20Brief_final_9_26_276766_5379.pdf)).
+Implicit bias is a promising line of research for understanding and addressing these issues in K12 education.  Studies across a variety of fields including education, medicine, law enforcement, criminal justice, and housing suggest that people unconsciously consider race, ethnicity and gender when making key decisions that shape other people's lives.  Research into implicit bias may reveal insight into how to reduce gaps in K12 student outcomes and how we can improve.
 
-> Black and Latino students are 38% of students in schools that offer Algebra
-II and 37% of students enrolled in Algebra II; they are 36% of students in
-schools that offer calculus and 21% of students enrolled in calculus; and they are 37% of students in schools that offer physics and
-35% of students enrolled in physics. ([Office for Civil Rights 2016](http://www2.ed.gov/about/offices/list/ocr/docs/2013-14-first-look.pdf)).
+## Gaps in K12 student outcomes 
+Black students are more than three times as likely to be suspended or expelled as their white peers ([OCR 2016](http://www2.ed.gov/about/offices/list/ocr/docs/crdc-discipline-snapshot.pdf)).  This difference is visible even in preschool (see [Gilliam 2016](http://ziglercenter.yale.edu/publications/Preschool%20Implicit%20Bias%20Policy%20Brief_final_9_26_276766_5379.pdf)), and there are important intersectional effects for black female students ([Crenshaw 2014](http://www.law.columbia.edu/null/download?&exclusive=filemgr.download&file_id=613546)).  Black and Latino students are 36% of students in schools with calculus, but only make up 21% of students enrolled in calculus ([Office for Civil Rights 2016](http://www2.ed.gov/about/offices/list/ocr/docs/2013-14-first-look.pdf)).
 
-While female students are generally more successful in K12 settings than male students, they report liking math and science less than male students ([NCES 2015](http://nces.ed.gov/pubs2015/2015075.pdf)).  In upper high school grades, when students have more choice over their course of study, girls opt-out of specific math and science courses ([Blickenstaff 2006](http://www.tandfonline.com/doi/abs/10.1080/09540250500145072)).
+While female students are more academically successful in K12 settings than male students, they report liking math and science less than male students ([NCES 2015](http://nces.ed.gov/pubs2015/2015075.pdf)).  In upper high school grades, when students have more choice over their course of study, girls opt-out of specific math and science courses ([Blickenstaff 2006](http://www.tandfonline.com/doi/abs/10.1080/09540250500145072)).  In AP mathematics, boys consistently outnumber girls by up to 10,000 students and females only make up 22% of students in AP Computer Science ([College Board 2007](http://research.collegeboard.org/sites/default/files/publications/2012/7/researchreport-2007-4-ap-students-college-analysis-five-year-academic-careers.pdf)).  For career and technical education programs, girls make up 25% of students in STEM courses ([OCR 2012](http://www2.ed.gov/about/offices/list/ocr/docs/gender-equity-in-education.pdf)).
 
-> In high school, the Advanced Placement exam in Computer Science has the worst gender diversity across all courses, with 78 percent participation by men and 22 percent by women. Participation by students of color is 13 percent. ([College Board 2007](http://research.collegeboard.org/sites/default/files/publications/2012/7/researchreport-2007-4-ap-students-college-analysis-five-year-academic-careers.pdf))
-
-This also impact AP mathematics, where boys consistently outnumber girls by up to 10,000 students.  It's even more pronounced in STEM programs in career and technical education, where females only make up 25% of students ([Office for Civil Rights 2012](http://www2.ed.gov/about/offices/list/ocr/docs/gender-equity-in-education.pdf)).
-
+Students with disabilities are 12% of all students, but 67% of students subject to restraint or seclusion ([OCR 2016](http://www2.ed.gov/about/offices/list/ocr/docs/2013-14-first-look.pdf)).
 
 
 ## Where can I learn more?
-- [State of the Science: Implicit Bias Review 2015 (Staats)](http://kirwaninstitute.osu.edu/wp-content/uploads/2015/05/2015-kirwan-implicit-bias.pdf)
-- [Women and science careers: leaky pipeline or gender filter? (Blickenstaff 2006)](http://www.tandfonline.com/doi/abs/10.1080/09540250500145072)
-- [code.org/diversity](https://code.org/diversity)
-- [Google's Computer Science Education Research](https://www.google.com/edu/resources/computerscience/research/)
+- [Racial Disproportionality in School Discipline: Implicit Bias is Heavily Implicated (Rudd 2014)](http://kirwaninstitute.osu.edu/wp-content/uploads/2014/02/racial-disproportionality-schools-02.pdf)
 - [Diversity Gaps in Computer Science: Exploring the Underrepresentation of Girls, Blacks and Hispanics (Google, 2016)](http://services.google.com/fh/files/misc/diversity-gaps-in-computer-science-report.pdf)
-- [Unconscious Bias at work (Google)](https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/watch-unconscious-bias-at-work/)
+- [Black Girls Matter: Pushed out, Overpoliced and Underprotected (Crenshaw 2014)](http://www.law.columbia.edu/null/download?&exclusive=filemgr.download&file_id=613546)
+- [Women and science careers: leaky pipeline or gender filter? (Blickenstaff 2006)](http://www.tandfonline.com/doi/abs/10.1080/09540250500145072)
+- [Google's Computer Science Education Research](https://www.google.com/edu/resources/computerscience/research/)
+- [https://code.org/diversity](https://code.org/diversity)
+
 
 ---------------------------------------
 
@@ -55,10 +50,18 @@ Gershenson, Holt and Papageorge ([2013](http://research.upjohn.org/cgi/viewconte
 ## How does implicit bias fit in?
 While these outcomes show that we have work to do in terms of equity, it's complicated to understand all the factors contributing to these different outcomes and what we can do about it.  One promising line of research from psychology is implicit bias, which has been studied extensively over the last 15 years.
 
+When investigating attitudes towards different groups of people, researchers draw a distinction between attitudes that are measured explicitly (eg., by asking the person to describe their attitude) or implicitly (by measuring how they respond to a particular task).  Often implicit attitude measures are done covertly, without the participant knowing that their attitude is being assessed.  This approach is appealing because one possibility is that people are hesitant to report unpopular attitudes like racism in explicit measures.  This is called the social desirability bias.  Another reason implicit attitude measures are interesting is that levels of attitudes like racism and sexism have declined over time using explicit attitude measures ([Schuman, Steeh, & Bobo, 1998](https://www.amazon.com/Racial-Attitudes-America-Interpretations-Revised/dp/0674745698)), yet there are still different outcomes for racial, ethnic and gender groups in many school and work situations.
+
+Implicit bias is commonly measured by asking participants to classify different concepts or attributes with different groups of people, and researchers will measure how long the participant takes to do the classification.  The most prevalent implicit bias assessment is the [Implicit Association Test](https://implicit.harvard.edu/implicit/takeatest.html).  Another common approach to measuring implicit bias is to use priming techniques where a participant is shown people from different groups before they complete a task, while researchers measure how their performance changes.
+
 ## What can bias in teaching look like?
 We've put together an initial set of ways that bias can surface in teaching that may be influenced by implicit bias, and would love your input.
 
 <a href="{{site.baseurl}}/behaviors.html" class="btn tesselation-btn">What bias looks like</a>
+
+## Where can I learn more?
+- [State of the Science: Implicit Bias Review 2015 (Staats)](http://kirwaninstitute.osu.edu/wp-content/uploads/2015/05/2015-kirwan-implicit-bias.pdf)
+- [Unconscious Bias at work (Google)](https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/watch-unconscious-bias-at-work/)
 
 ---------------------------------------
 

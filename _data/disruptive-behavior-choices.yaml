@@ -1,3 +1,7 @@
+# sources:
+# - Stop talking out of turn: The influence of students' gender and ethnicity on preservice teachers' intervention strategies for student misbehavior ([Glock 2016](http://www.sciencedirect.com/science/article/pii/S0742051X16300385))
+# - Punish Them or Engage Them? Teachers’ Views of Unproductive Student Behaviours in the Classroom ([Sullivan et al. 2014](http://ro.ecu.edu.au/cgi/viewcontent.cgi?article=2356&context=ajte)).
+
 disruptive-behavior:
   context:
     school: You are in a public high school

@@ -23,17 +23,6 @@ Students with disabilities are 12% of all students, but 67% of students subject 
 
 # How bias can surface in teaching {#teaching}
 
-## Teachers' uniquely important role
-Gershenson, Holt and Papageorge ([2013](http://research.upjohn.org/cgi/viewcontent.cgi?article=1248&context=up_workingpapers)) summarize some hypotheses around how bias in teaching can impact students:
-
-> Indeed, robust evidence suggests gender, racial, and ethnic biases in how teachers grade exams in a variety of contexts (Burgess and Greaves 2013; Cornwell, Mustard, and Van Parys 2013; Hanna and Linden 2012; Lavy 2008). Lavy and Sand (2015) show that grading biases can have long-lasting impacts on academic achievement and course taking in high school. Relatedly, Riegle-Crumb and Humphries (2012) study how math teachers stigmatize female students.”
-
-> Teachers’ expectations might affect student outcomes in at least three ways. First, the perception that teachers have low expectations may exacerbate the harmful effects of stereotype threat, whereby low expectations either cause emotional responses that directly harm performance or cause students to disidentify with educational environments (Steele 1997).
-
-> Second, stigmatized students may modify their expectations, and in turn their behavior, to conform to teachers’ negative biases (Ferguson 2003). In each of the first two cases, teachers’ stigmatization of information-poor racial minority students could create a feedback loop that functions like a self-fulfilling prophecy (Burgess and Greaves 2013; Loury 2009).
-
->Finally, teachers who stigmatize certain types of students may modify how they teach, evaluate, and advise them, again leading to poor educational outcomes for stigmatized students (Ferguson 2003). All three scenarios potentially perpetuate sociodemographic gaps in educational attainment.“
-
 ## How do students experience bias?
 - If you're a student, or work directly with students we'd love to [hear from you](https://twitter.com/mit_tsl) and help share your experience.
 - [Sepehr Vakil](https://education.utexas.edu/faculty/sepehr_vakil) has done excellent field work on how students of different races, ethnicities and genders experience computer science education.

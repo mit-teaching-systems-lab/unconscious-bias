@@ -58,9 +58,28 @@ We're working to create learning experiences for teachers that prepare them to c
 # How we can improve {#improve}
 Prejudice reduction research suggests that the kinds interventions that are most promising are: intergroup contact, instruction, empathy and perspective taking experiences, accountability and exposure to social norms or experts ([Paluck and Green 2009](http://static1.squarespace.com/static/5186d08fe4b065e39b45b91e/t/51e3234ce4b0c8784c9e4aae/1373840204345/Paluck_Green_AnnRev_2009.pdf)).
 
+## How can schools improve?
+Within schools, there are some structural changes that can help support teachers and students.  Within the Positive Behavior Interventions & Supports system ([McIntosh et al. 2014](https://www.pbis.org/Common/Cms/files/pbisresources/RecommendationsForAddressingDisciplineDisproportionality.pdf)), these include:
+
+  1. Use Effective Instruction to Reduce the Achievement Gap
+  2. Implement School-Wide Positive Behavioral Interventions And Supports (SWPBIS) to Build a Foundation of Prevention
+  3. Collect, Use, and Report Disaggregated Student Discipline Data
+  4. Develop Policies with Accountability for Disciplinary Equity
+  5. Teach Neutralizing Routines for Vulnerable Decision Points
+
+"Vulnerable decision points" are particularly relevant for pre-service teachers to practice, and research suggests practicing simple "if-then" heuristics may be effective in these situations ([Smolkowski et al. 2016](https://www.researchgate.net/publication/307610511_Vulnerable_Decision_Points_for_Disproportionate_Office_Discipline_Referrals_Comparisons_of_Discipline_for_African_American_and_White_Elementary_School_Students), [Mendoza et al. 2010](http://journals.sagepub.com/doi/pdf/10.1177/0146167210362789)).
+
 ## How can teachers improve?
 The most promising interventions with teachers have been empathy interventions (eg., [Okonofua et al. 2016](http://www.pnas.org/content/113/19/5221.full.pdf), [Gehlbach et al. 2016](Creating Birds of Similar Feathers: Leveraging Similarity to Improve
 Teacher–Student Relationships and Academic Achievement), remote coaching for teachers ([Gregory et al. 2016](http://people.virginia.edu/~psykliff/Teenresearch/Publications_files/Disc%20Gap%20Mediation%20MTP_S%20Study%20Accepted%20in%20School%20Psych%20Review%20going%20into%20page%20proofs%20sept%204%202015.pdf)), and workshops pairing education about implicit bias with training in specific strategies ([Forscher et al. 2016](https://osf.io/p73vr/), [Divine et al. 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603687/pdf/nihms396358.pdf)).  The interventions have all been field-tested to asset their real-world impact on outcomes for students.
+
+## What are some specific strategies teachers can practice?
+- [Unconscious Bias: When good intentions aren't enough (Fiarman 2016)](../assets/fiarman-2016.pdf)
+- [Student Engagement Strategies Guide](https://docs.google.com/document/d/12UtpMG-u9qbZe84ZngOYF_ISdkLFdPFzbDw7M7DNdQo/edit)
+- [Apps for Social Justice: Motivating Computer Science Learning with Design and Real-World Problem Solving](http://tap2k.org/papers/iti120-vanwart.pdf)
+- [Closing the Racial Discipline Gap in Classrooms by Changing Teacher Practice (Gregory et al. 2016)](http://www.naspjournals.org/doi/abs/10.17105/SPR45-2.171-191?af=R&&code=naps-site)
+
+<a href="{{site.teachermoments.demo_url}}" class="btn tesselation-btn">Interactive case studies</a>
 
 ## How can we help students improve?
 Cooperative learning has been the most extensively studied prejudice reduction techniques in the field, particularly variants on the [Jigsaw](https://www.jigsaw.org/) technique ([Aronson et al. 1978](https://books.google.com/books/about/The_Jigsaw_Classroom.html?id=EUOfAAAAMAAJ)).  These techniques were initially developed to improve classrooms that were [being desegrated](https://www.jigsaw.org/history/).
@@ -68,17 +87,6 @@ Cooperative learning has been the most extensively studied prejudice reduction t
   [![jigsaw](../assets/jigsaw1.png)](https://www.jigsaw.org/) [![jigsaw](../assets/jigsaw2.png)](https://www.jigsaw.org/)
 
 Several meta-analyses have been conducted on cooperative learning, and have consistently shown that they impact positive peer relationships and helpfulness ([Johnson & Johnson 1989](https://books.google.com/books/about/Cooperation_and_competition.html?id=ewh9AAAAMAAJ), [Roseth et al. 2008](http://www.apa.org/pubs/journals/releases/bul-1342223.pdf), as cited in [Paluck and Green 2009](http://static1.squarespace.com/static/5186d08fe4b065e39b45b91e/t/51e3234ce4b0c8784c9e4aae/1373840204345/Paluck_Green_AnnRev_2009.pdf))
-
-
-
-
-## What are some specific strategies for teachers?
-- [Unconscious Bias: When good intentions aren't enough (Fiarman 2016)](../assets/fiarman-2016.pdf)
-- [Student Engagement Strategies Guide](https://docs.google.com/document/d/12UtpMG-u9qbZe84ZngOYF_ISdkLFdPFzbDw7M7DNdQo/edit)
-- [Apps for Social Justice: Motivating Computer Science Learning with Design and Real-World Problem Solving](http://tap2k.org/papers/iti120-vanwart.pdf)
-- [Closing the Racial Discipline Gap in Classrooms by Changing Teacher Practice (Gregory et al. 2016)](http://www.naspjournals.org/doi/abs/10.17105/SPR45-2.171-191?af=R&&code=naps-site)
-
-<a href="{{site.teachermoments.demo_url}}" class="btn tesselation-btn">Interactive case studies</a>
 
 ## What else can we do?
 A lot!  While we're focused on improving equity in K12 STEM teaching, and helping teachers prepare and practice to create more equitable classroom communities, many other people are working on other aspects of these problems.

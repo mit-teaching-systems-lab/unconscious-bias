@@ -66,17 +66,17 @@ Within the [MIT Teaching Systems Lab](http://tsl.mit.edu), our work is focus on 
 
 <div style="padding-left: 30px;">
   <a href="{{site.teachermoments.demo_url}}">
-    <img alt="danny" src="../assets/danny.png" style="border: 1px solid #ccc;" />
+    <img alt="danny" src="{{site.baseurl}}/assets/danny.png" style="border: 1px solid #ccc;" />
   </a>
   <span style="display: inline-block; width: 10px;"></span>
   <a href="{{site.teachermoments.demo_url}}">
-    <img alt="sheena" src="../assets/sheena.png" style="border: 1px solid #ccc;" />
+    <img alt="sheena" src="{{site.baseurl}}/assets/sheena.png" style="border: 1px solid #ccc;" />
   </a>
 </div>
 <a href="{{site.teachermoments.demo_url}}" class="btn tesselation-btn">Interactive case studies</a>
 
 ## What are some specific strategies teachers can practice?
-- [Unconscious Bias: When good intentions aren't enough (Fiarman 2016)](../assets/fiarman-2016.pdf)
+- [Unconscious Bias: When good intentions aren't enough (Fiarman 2016)]({{site.baseurl}}/assets/fiarman-2016.pdf)
 - [Student Engagement Strategies Guide](https://docs.google.com/document/d/12UtpMG-u9qbZe84ZngOYF_ISdkLFdPFzbDw7M7DNdQo/edit)
 - [Apps for Social Justice: Motivating Computer Science Learning with Design and Real-World Problem Solving](http://tap2k.org/papers/iti120-vanwart.pdf)
 - [Closing the Racial Discipline Gap in Classrooms by Changing Teacher Practice (Gregory et al. 2016)](http://www.naspjournals.org/doi/abs/10.17105/SPR45-2.171-191?af=R&&code=naps-site)
@@ -84,7 +84,7 @@ Within the [MIT Teaching Systems Lab](http://tsl.mit.edu), our work is focus on 
 ## How can we help students improve?
 Cooperative learning has been the most extensively studied prejudice reduction techniques in the field, particularly variants on the [Jigsaw](https://www.jigsaw.org/) technique ([Aronson et al. 1978](https://books.google.com/books/about/The_Jigsaw_Classroom.html?id=EUOfAAAAMAAJ)).  These techniques were initially developed to improve classrooms that were [being desegrated](https://www.jigsaw.org/history/).
 
-  [![jigsaw](../assets/jigsaw1.png)](https://www.jigsaw.org/) [![jigsaw](../assets/jigsaw2.png)](https://www.jigsaw.org/)
+  [![jigsaw]({{site.baseurl}}/assets/jigsaw1.png)](https://www.jigsaw.org/) [![jigsaw]({{site.baseurl}}/assets/jigsaw2.png)](https://www.jigsaw.org/)
 
 Several meta-analyses have been conducted on cooperative learning, and have consistently shown that they impact positive peer relationships and helpfulness ([Johnson & Johnson 1989](https://books.google.com/books/about/Cooperation_and_competition.html?id=ewh9AAAAMAAJ), [Roseth et al. 2008](http://www.apa.org/pubs/journals/releases/bul-1342223.pdf), as cited in [Paluck and Green 2009](http://static1.squarespace.com/static/5186d08fe4b065e39b45b91e/t/51e3234ce4b0c8784c9e4aae/1373840204345/Paluck_Green_AnnRev_2009.pdf))
 

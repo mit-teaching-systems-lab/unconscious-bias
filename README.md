@@ -10,7 +10,7 @@ It's clear that intersectionality is important and students each have their own 
 As the [MIT Teaching Systems Lab](http://tsl.mit.edu/) works with K12 educators, teacher preparation programs, and other organizations to scale access to new STEM opportunities, we all risk replicating these gaps in areas like computational thinking and making (and even in those machines [themselves](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)).
 
 Implicit bias is a promising line of research for understanding and addressing these issues in K12 education.  Field studies across a variety of fields including education, medicine, law enforcement, criminal justice, and housing suggest that people may act in ways that are biased ([Bertrand and Duflo 2016](http://economics.mit.edu/files/11449)).  This especially important when making key decisions that shape other people's lives like hiring and promotion decisions.  While there has been extensive research in developing and testing theories about the underlying psychological processes (eg., [Blickenstaff 2006](https://www.researchgate.net/publication/228384649_Women_and_Science_Careers_Leaky_Pipeline_or_Gender_Filter)), and many promising interventions have been developed (eg., [Okonofua et al. 2016](http://www.pnas.org/content/113/19/5221.full.pdf), [Gehlbach et al. 2016](Creating Birds of Similar Feathers: Leveraging Similarity to Improve
-Teacher–Student Relationships and Academic Achievement), [Forscher et al. 2016](https://osf.io/p73vr/)), additional research into implicit bias may reveal further insight into how to reduce gaps in K12 student outcomes and how we can improve.
+Teacher–Student Relationships and Academic Achievement), [Forscher et al. 2016](https://osf.io/p73vr/), [Gregory et al. 2016](http://people.virginia.edu/~psykliff/Teenresearch/Publications_files/Disc%20Gap%20Mediation%20MTP_S%20Study%20Accepted%20in%20School%20Psych%20Review%20going%20into%20page%20proofs%20sept%204%202015.pdf)), additional research into implicit bias may reveal further insight into how to reduce gaps in K12 student outcomes and how we can improve.
 
 ## Gaps in K12 student outcomes 
 Black students are more than three times as likely to be suspended or expelled as their white peers ([OCR 2016](http://www2.ed.gov/about/offices/list/ocr/docs/crdc-discipline-snapshot.pdf)).  This difference is visible even in preschool (see [Gilliam 2016](http://ziglercenter.yale.edu/publications/Preschool%20Implicit%20Bias%20Policy%20Brief_final_9_26_276766_5379.pdf)), and there are important intersectional effects for black female students ([Crenshaw 2014](http://www.law.columbia.edu/null/download?&exclusive=filemgr.download&file_id=613546)).  Black and Latino students are 36% of students in schools with calculus, but only make up 21% of students enrolled in calculus ([Office for Civil Rights 2016](http://www2.ed.gov/about/offices/list/ocr/docs/2013-14-first-look.pdf)).
@@ -58,8 +58,21 @@ We're working to create learning experiences for teachers that prepare them to c
 # How we can improve {#improve}
 Prejudice reduction research suggests that the kinds interventions that are most promising are: intergroup contact, instruction, empathy and perspective taking experiences, accountability and exposure to social norms or experts ([Paluck and Green 2009](http://static1.squarespace.com/static/5186d08fe4b065e39b45b91e/t/51e3234ce4b0c8784c9e4aae/1373840204345/Paluck_Green_AnnRev_2009.pdf)).
 
+## How can teachers improve?
+The most promising interventions with teachers have been empathy interventions (eg., [Okonofua et al. 2016](http://www.pnas.org/content/113/19/5221.full.pdf), [Gehlbach et al. 2016](Creating Birds of Similar Feathers: Leveraging Similarity to Improve
+Teacher–Student Relationships and Academic Achievement), remote coaching for teachers ([Gregory et al. 2016](http://people.virginia.edu/~psykliff/Teenresearch/Publications_files/Disc%20Gap%20Mediation%20MTP_S%20Study%20Accepted%20in%20School%20Psych%20Review%20going%20into%20page%20proofs%20sept%204%202015.pdf)), and workshops pairing education about implicit bias with training in specific strategies ([Forscher et al. 2016](https://osf.io/p73vr/), [Divine et al. 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603687/pdf/nihms396358.pdf)).  The interventions have all been field-tested to asset their real-world impact on outcomes for students.
 
-## How can teachers and educators improve?
+## How can we help students improve?
+Cooperative learning has been the most extensively studied prejudice reduction techniques in the field, particularly variants on the [Jigsaw](https://www.jigsaw.org/) technique ([Aronson et al. 1978](https://books.google.com/books/about/The_Jigsaw_Classroom.html?id=EUOfAAAAMAAJ)).  These techniques were initially developed to improve classrooms that were [being desegrated](https://www.jigsaw.org/history/).
+
+  [![jigsaw](../assets/jigsaw1.png)](https://www.jigsaw.org/) [![jigsaw](../assets/jigsaw2.png)](https://www.jigsaw.org/)
+
+Several meta-analyses have been conducted on cooperative learning, and have consistently shown that they impact positive peer relationships and helpfulness ([Johnson & Johnson 1989](https://books.google.com/books/about/Cooperation_and_competition.html?id=ewh9AAAAMAAJ), [Roseth et al. 2008](http://www.apa.org/pubs/journals/releases/bul-1342223.pdf), as cited in [Paluck and Green 2009](http://static1.squarespace.com/static/5186d08fe4b065e39b45b91e/t/51e3234ce4b0c8784c9e4aae/1373840204345/Paluck_Green_AnnRev_2009.pdf))
+
+
+
+
+## What are some specific strategies for teachers?
 - [Unconscious Bias: When good intentions aren't enough (Fiarman 2016)](../assets/fiarman-2016.pdf)
 - [Student Engagement Strategies Guide](https://docs.google.com/document/d/12UtpMG-u9qbZe84ZngOYF_ISdkLFdPFzbDw7M7DNdQo/edit)
 - [Apps for Social Justice: Motivating Computer Science Learning with Design and Real-World Problem Solving](http://tap2k.org/papers/iti120-vanwart.pdf)

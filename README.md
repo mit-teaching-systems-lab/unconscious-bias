@@ -73,13 +73,24 @@ Within schools, there are some structural changes that can help support teachers
 The most promising interventions with teachers have been empathy interventions (eg., [Okonofua et al. 2016](http://www.pnas.org/content/113/19/5221.full.pdf), [Gehlbach et al. 2016](Creating Birds of Similar Feathers: Leveraging Similarity to Improve
 Teacher–Student Relationships and Academic Achievement), remote coaching for teachers ([Gregory et al. 2016](http://people.virginia.edu/~psykliff/Teenresearch/Publications_files/Disc%20Gap%20Mediation%20MTP_S%20Study%20Accepted%20in%20School%20Psych%20Review%20going%20into%20page%20proofs%20sept%204%202015.pdf)), and workshops pairing education about implicit bias with training in specific strategies ([Forscher et al. 2016](https://osf.io/p73vr/), [Divine et al. 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603687/pdf/nihms396358.pdf)).  The interventions have all been field-tested to asset their real-world impact on outcomes for students.
 
+Within the [MIT Teaching Systems Lab](http://tsl.mit.edu), our work is focus on creating [practice spaces](http://tsl.mit.edu/practice-spaces-for-teacher-preparation/) for teachers, and we're working specifically on creating interactive case studies for teaching situations that might reveal implicit bias.
+
+<div style="padding-left: 30px;">
+  <a href="{{site.teachermoments.demo_url}}">
+    <img alt="danny" src="../assets/danny.png" style="border: 1px solid #ccc;" />
+  </a>
+  <span style="display: inline-block; width: 10px;"></span>
+  <a href="{{site.teachermoments.demo_url}}">
+    <img alt="sheena" src="../assets/sheena.png" style="border: 1px solid #ccc;" />
+  </a>
+</div>
+<a href="{{site.teachermoments.demo_url}}" class="btn tesselation-btn">Interactive case studies</a>
+
 ## What are some specific strategies teachers can practice?
 - [Unconscious Bias: When good intentions aren't enough (Fiarman 2016)](../assets/fiarman-2016.pdf)
 - [Student Engagement Strategies Guide](https://docs.google.com/document/d/12UtpMG-u9qbZe84ZngOYF_ISdkLFdPFzbDw7M7DNdQo/edit)
 - [Apps for Social Justice: Motivating Computer Science Learning with Design and Real-World Problem Solving](http://tap2k.org/papers/iti120-vanwart.pdf)
 - [Closing the Racial Discipline Gap in Classrooms by Changing Teacher Practice (Gregory et al. 2016)](http://www.naspjournals.org/doi/abs/10.17105/SPR45-2.171-191?af=R&&code=naps-site)
-
-<a href="{{site.teachermoments.demo_url}}" class="btn tesselation-btn">Interactive case studies</a>
 
 ## How can we help students improve?
 Cooperative learning has been the most extensively studied prejudice reduction techniques in the field, particularly variants on the [Jigsaw](https://www.jigsaw.org/) technique ([Aronson et al. 1978](https://books.google.com/books/about/The_Jigsaw_Classroom.html?id=EUOfAAAAMAAJ)).  These techniques were initially developed to improve classrooms that were [being desegrated](https://www.jigsaw.org/history/).

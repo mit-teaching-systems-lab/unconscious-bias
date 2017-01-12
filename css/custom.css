@@ -6,7 +6,7 @@
 
 .tesselation-btn {
   background-image: url('../assets/tesselation.png');
-  margin-left: 10px;
+  text-align: center;
 }
 
 .page-header-small > h1,h2 {
@@ -23,4 +23,10 @@
 
 h1 {
   font-weight: bold !important; /* override normalize */
+}
+
+/* overrides cayman theme */
+.btn {
+  color: rgba(255, 255, 255, 0.85) !important;
+  background-color: rgba(0, 0, 0, 0.18) !important;
 }

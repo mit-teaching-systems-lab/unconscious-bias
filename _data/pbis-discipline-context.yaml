@@ -1,0 +1,65 @@
+# source http://www.pbis.org/Common/Cms/files/pbisresources/PBIS%20Disproportionality%20Policy%20Guidebook%202016-7-24.pdf
+# templates need ${school} string
+
+context:
+  - element: 4
+    section: Clear, Objective Discipline Procedures
+    template: >
+      The teachers and administrators at ${school}
+      have procedures for identifying and responding to
+      behavior incidents in our building and review them for
+      mally on a regular basis. Our orientation materials and
+      school website include definitions for the most common
+      problem behaviors we see in our school, as well
+      as examples of how these behaviors can range from
+      minor, staff-managed behaviors to major, officemanaged
+      behaviors. Here is one example (from SWIS,
+      our discipline data system):
+
+      Disruption (Minor): “Student engages in low-intensity,
+      but inappropriate disruption, such as chatting with a
+      peer in class with a whisper tone.”
+
+      Disruption (Major): “Student engages in behavior
+      causing an interruption in a class or activity. Disruption
+      includes sustained loud talk, yelling, or screaming; noise
+      with materials; horseplay or roughhousing; and/or sustained
+      out-of-seat behavior.”
+
+  - element: 5
+    section: Removal or Reduction of Exclusionary Practices
+    text: > 
+      ${school} is working to keep students
+      in school with continuous access to instruction and
+      reduce the practice of removing students from their
+      classrooms for disciplinary reasons. Suspensions and
+      expulsions are reserved for serious behavior incidents
+      that pose a credible threat to the safety of our students
+      and staff. More information on suspensions and expulsions,
+      including the appeals process for families, can be
+      found on the school's Student Discipline Webpage. 
+
+      For serious behavior incidents that do not require mandatory
+      expulsion, the multidisciplinary team at ${school} will
+      determine appropriate interventions
+      in lieu of out-of-school suspension. Students who
+      are involved in behavior incidents in this category are
+      required to participate in activities designed to support
+      development of prosocial skills. See our Graduated
+      Discipline Policy for alternative responses.
+
+  - element: 6
+    section: Graduated Discipline Systems with Instructional Alternatives to Exclusion
+    text: >
+      ${school} believes in the use of graduated discipline
+      to ensure severe punishments, such as exclusion
+      from the learning environment, are reserved for credible
+      threats to the safety of others. The goal of all discipline
+      responses is to ensure students understand the
+      school’s behavior expectations, repair the harm caused
+      by their choice of behavior, and identify how to prevent
+      the problem in the future. When repeated or serious
+      behavior incidents occur, each school’s multidisciplinary
+      team will conduct a functional behavior assessment for
+      students to identify needs for academic and behavior
+      support.

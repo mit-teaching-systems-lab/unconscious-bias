@@ -4,7 +4,7 @@ title: Teacher behaviors
 ---
 [Edit this page]({{site.github.repository_url}}/edit/master/_data/behavior_sets.yaml)
 
-# How bias can surface in teaching
+# See what bias looks like
 
 ### Teachers' uniquely important role
 Teachers have a unique ability influence our society in the classroom communities that they create and the individual relationships they build with students.  This also means they are uniquely positioned to model equity and awareness of potential bias.

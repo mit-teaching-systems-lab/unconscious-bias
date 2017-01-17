@@ -47,7 +47,7 @@ Implicit bias is commonly measured by asking participants to classify different 
 ## What can bias in teaching look like?
 We're working to create learning experiences for teachers that prepare them to create equitable classroom cultures, and also to investigate whether teachers' behavior is related to measures of implicit bias.  Towards this end, we've put together an initial set of ways that bias can surface in teaching and would love your input.  
 
-<a href="{{site.baseurl}}/behaviors.html" class="btn tesselation-btn">What bias looks like</a>
+<a href="{{site.baseurl}}/behaviors.html" class="btn tesselation-btn">See what bias looks like</a>
 
 ---------------------------------------
 
@@ -70,7 +70,7 @@ The most promising interventions with teachers have been empathy interventions (
 
 Within the [MIT Teaching Systems Lab](http://tsl.mit.edu), our work is focus on creating [practice spaces](http://tsl.mit.edu/practice-spaces-for-teacher-preparation/) for teachers, and we're working specifically on creating interactive case studies for teaching situations that might reveal implicit bias.
 
-<div style="padding-left: 30px;">
+<div style="padding-left: 20px;">
   <a href="{{site.teachermoments.demo_url}}">
     <img alt="danny" src="{{site.baseurl}}/assets/danny.png" style="border: 1px solid #ccc;" />
   </a>
@@ -79,7 +79,7 @@ Within the [MIT Teaching Systems Lab](http://tsl.mit.edu), our work is focus on 
     <img alt="sheena" src="{{site.baseurl}}/assets/sheena.png" style="border: 1px solid #ccc;" />
   </a>
 </div>
-<a href="{{site.teachermoments.demo_url}}" class="btn tesselation-btn">Interactive case studies</a>
+<a href="{{site.teachermoments.demo_url}}" class="btn tesselation-btn">Try out interactive case studies</a>
 
 ## What are some specific strategies teachers can practice?
 - [Unconscious Bias: When good intentions aren't enough (Fiarman 2016)]({{site.baseurl}}/assets/fiarman-2016.pdf)

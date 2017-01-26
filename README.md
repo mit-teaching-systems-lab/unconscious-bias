@@ -1,7 +1,7 @@
 [Edit this page]({{site.github.repository_url}}/edit/master/README.md)
 
 # Why bias matters {#why}
-Because equity matters.
+Because justice matters.
 
 When looking at groups of students in aggregate, there are clear gaps in outcomes for students based on race, ethnicity, gender, disability and class.  At the national level, gaps can be found in test scores, annual retention rates, disciplinary measures and graduation rates.  Pathways towards STEM careers are increasingly important to many students, families, educators and policy makers, and the STEM pipeline also shows clear gaps in outcomes for students grouped by race, ethnicity, gender, disability and class.
 

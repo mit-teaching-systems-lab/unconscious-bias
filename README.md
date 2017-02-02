@@ -98,6 +98,16 @@ Within the [MIT Teaching Systems Lab](http://tsl.mit.edu), our work is focused o
 - [Apps for Social Justice: Motivating Computer Science Learning with Design and Real-World Problem Solving](http://tap2k.org/papers/iti120-vanwart.pdf)
 - [Closing the Racial Discipline Gap in Classrooms by Changing Teacher Practice (Gregory et al. 2016)](http://www.naspjournals.org/doi/abs/10.17105/SPR45-2.171-191?af=R&&code=naps-site)
 
+#### In Computer science
+- [Tips for Reducing Bias](http://csteachingtips.org/tips-for-reducing-bias) from [csteachingtips](http://csteachingtips.org/)
+- Practice with [problem statements about women and technology](https://www.ncwit.org/resources/critical-listening-guide#Essentialism) from the [National Center for Women in Information Technology (NCWIT)](https://www.ncwit.org/)
+- [EngageCSEdu](https://www.engage-csedu.org/) has excellent [Engagement Practices](https://www.engage-csedu.org/engagement/make-it-matter) and [Instructional Materials](https://www.engage-csedu.org/search/materials)
+- Pair programming improves student retention, confidence, and program quality ([McDowell et al. 2006]({{site.baseurl}}/assets/mcdowell-2006.pdf))
+- Two middle school students describe [pair programming](https://www.youtube.com/watch?v=vgkahOzFH2Q)
+
+<iframe style="padding-left: 40px;" width="100%" height="350" src="https://www.youtube.com/embed/vgkahOzFH2Q" frameborder="0" allowfullscreen></iframe>
+
+
 ## How can we help students improve?
 Cooperative learning has been the most extensively studied prejudice reduction techniques in the field, particularly variants on the [Jigsaw](https://www.jigsaw.org/) technique ([Aronson et al. 1978](https://books.google.com/books/about/The_Jigsaw_Classroom.html?id=EUOfAAAAMAAJ)).  This approach involves shifting "from a competitive atmosphere to a more cooperative one" by restructuring the classroom into diverse small groups.  It was initially developed to improve classrooms that were [being desegrated](https://www.jigsaw.org/history/).
 

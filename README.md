@@ -39,12 +39,17 @@ If these outcome gaps are symptoms, how can we identify and treat the underlying
 # How bias can surface in teaching {#teaching}
 
 ## How do students talk about discrimination and bias?
-- [Color Lines](https://twitter.com/colorlines) has some videos of high school students sharing their own experience of [being young black men](http://www.colorlines.com/articles/life-cycles-inequity-colorlines-series-black-men-0):
-<iframe style="padding-left: 40px;" width="100%" height="350" src="https://www.youtube.com/embed/ezZn_N43Jdw" frameborder="0" allowfullscreen></iframe>
+[Color Lines](https://twitter.com/colorlines) has some videos of high school students sharing their own experience of [being young black men](http://www.colorlines.com/articles/life-cycles-inequity-colorlines-series-black-men-0):
+<iframe style="padding: 20px;" width="100%" height="350" src="https://www.youtube.com/embed/ezZn_N43Jdw" frameborder="0" allowfullscreen></iframe>
+
+On [youcubed](https://www.youcubed.org/students/), students describe their experiences learning math in school:
+<a href="https://www.youcubed.org/students/"><img style="padding: 20px;" width="100%" src="{{site.baseurl}}/assets/youcubed.png" /></a>
+
+Several academic case studies center on student voices and calling attention to their unique perspectives in particular social contexts or academic disciplines.  Some starting points for exploring this are:
+
 - Chicana/Latina Testimonios on Effects and Responses
 to Microaggressions ([Huber and Cueva 2012]({{site.baseurl}}/assets/huber-cueva-2012.pdf))
-- [Sepehr Vakil](https://education.utexas.edu/faculty/sepehr_vakil) has done excellent field work on how students of different races, ethnicities and genders experience computer science education.
-- Melissa Crum has a great [talk](https://www.youtube.com/watch?v=sgtinODaW78) about her experience as a student.
+- For Computer Science in particular, see: Epistemological Pluralism and the Revaluation of the Concrete ([Turkle and Papert 1990]({{site.baseurl}}/assets/turkle-papert-1990.pdf))
 
 ## How does implicit bias fit in?
 While these outcomes show that educators have work to do in terms of equity, it's complicated to understand all the factors contributing to these different outcomes and challenging to identify what teachers can do to address gaps.  One promising line of research from psychology is implicit bias, which has been studied extensively over the last 15 years.
@@ -97,6 +102,7 @@ Within the [MIT Teaching Systems Lab](http://tsl.mit.edu), our work is focused o
 - [Student Engagement Strategies Guide](https://docs.google.com/document/d/12UtpMG-u9qbZe84ZngOYF_ISdkLFdPFzbDw7M7DNdQo/edit)
 - [Apps for Social Justice: Motivating Computer Science Learning with Design and Real-World Problem Solving](http://tap2k.org/papers/iti120-vanwart.pdf)
 - [Closing the Racial Discipline Gap in Classrooms by Changing Teacher Practice (Gregory et al. 2016)](http://www.naspjournals.org/doi/abs/10.17105/SPR45-2.171-191?af=R&&code=naps-site)
+- [Complex instruction](https://www.youcubed.org/introduction-complex-instruction/) focuses on and social status issues in collaborative group work
 
 #### In Computer science
 - [Tips for Reducing Bias](http://csteachingtips.org/tips-for-reducing-bias) from [csteachingtips](http://csteachingtips.org/)

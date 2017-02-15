@@ -51,6 +51,8 @@ Several academic case studies center on student voices and calling attention to 
 to Microaggressions ([Huber and Cueva 2012]({{site.baseurl}}/assets/huber-cueva-2012.pdf))
 - For Computer Science in particular, see: Epistemological Pluralism and the Revaluation of the Concrete ([Turkle and Papert 1990]({{site.baseurl}}/assets/turkle-papert-1990.pdf))
 
+As you're listening to student perspectives, a powerful question to ask is: how do my own experiences and values influence how I relate to students' experience?
+
 ## How does implicit bias fit in?
 While these outcomes show that educators have work to do in terms of equity, it's complicated to understand all the factors contributing to these different outcomes and challenging to identify what teachers can do to address gaps.  One promising line of research from psychology is implicit bias, which has been studied extensively over the last 15 years.
 

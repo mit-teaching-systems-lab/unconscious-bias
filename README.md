@@ -86,20 +86,23 @@ The most promising interventions with teachers are empathy interventions (eg., [
 
 Within the [MIT Teaching Systems Lab](http://tsl.mit.edu), our work is focused on creating [practice spaces](http://tsl.mit.edu/practice-spaces-for-teacher-preparation/) for teachers, and we're working specifically on creating interactive case studies for teaching situations that might reveal implicit bias and provide opportunities for teacher to rehearse strategies for reducing bias.
 
+These are situated within courses in teacher preparation programs, or professional development experiences:
+
+<a href="{{site.teachermoments.demo_url}}" target="_blank">
+  <img alt="cycle" src="{{site.baseurl}}/assets/cycle.jpg">
+</a>
+
 <div style="padding-left: 20px;">
-  <a href="{{site.teachermoments.demo_url}}">
+  <a href="{{site.teachermoments.demo_url}}" target="_blank">
     <img alt="sheena" src="{{site.baseurl}}/assets/sheena.png" style="border: 1px solid #ccc;" />
   </a>
   <span style="display: inline-block; width: 10px;"></span>
-  <a href="{{site.teachermoments.demo_url}}">
+  <a href="{{site.teachermoments.demo_url}}" target="_blank">
     <img alt="darnell" src="{{site.baseurl}}/assets/darnell.png" style="border: 1px solid #ccc;" />
   </a>
 </div>
 <a href="{{site.teachermoments.demo_url}}" class="btn tesselation-btn">Try out interactive case studies</a>
 
-These are situated within courses in teacher preparation programs, or professional development experiences:
-
-<img alt="cycle" src="{{site.baseurl}}/assets/cycle.jpg">
 
 ## What are some specific strategies teachers can practice?
 - Check out the [Critical Practices for Anti-bias Education](http://www.tolerance.org/seminar/critical-practices-anti-bias-education) and [Anti-bias Framework](http://www.tolerance.org/seminar/teaching-tolerance-s-anti-bias-framework) for professional development lessons, materials and webinars from the Southern Poverty Law Center's [Teaching Tolerance](http://www.tolerance.org/) project

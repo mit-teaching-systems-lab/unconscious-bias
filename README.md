@@ -97,6 +97,10 @@ Within the [MIT Teaching Systems Lab](http://tsl.mit.edu), our work is focused o
 </div>
 <a href="{{site.teachermoments.demo_url}}" class="btn tesselation-btn">Try out interactive case studies</a>
 
+These are situated within courses in teacher preparation programs, or professional development experiences:
+
+<img alt="cycle" src="{{site.baseurl}}/assets/cycle.jpg">
+
 ## What are some specific strategies teachers can practice?
 - Check out the [Critical Practices for Anti-bias Education](http://www.tolerance.org/seminar/critical-practices-anti-bias-education) and [Anti-bias Framework](http://www.tolerance.org/seminar/teaching-tolerance-s-anti-bias-framework) for professional development lessons, materials and webinars from the Southern Poverty Law Center's [Teaching Tolerance](http://www.tolerance.org/) project
 - [How do I know if my biases affect my teaching?](http://www.nameorg.org/learn/how_do_i_know_if_my_biases_aff.php) from the [National Association for Multicultural Education](http://www.nameorg.org/learn/)

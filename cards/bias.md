@@ -343,6 +343,7 @@ White, Murray, and Brunard-Vega (2012)
 
 
 ### How can we measure bias and discrimination within teaching?
+(upcoming: Shah, McGee, look at Gregory measures? and van Es)
 Within education, implicit measures have been used to measure attitudes towards inclusive education (Lüke and Grosche 2017).
 
 This approach has been adopted to teaching using vignette and case studies in a variety of ways internationally, including varying the student's race (Chang and Sue 2003), special education status (Pit-Ten Cate 2017, 2017, Stinnett et al. 2001), ethnicity (Glock; Elhoweris et al. 2005; Myles and Ratzlaff 1988), weight (Muller et al. 2017), race and class together (McCombs and Gay 1988), and even race, physical attractiveness and gender together (Parks and Kennedy 2007).  Overall, these studies have had mixed results with regards to confirming whether individual findings are generalizable, and it's unclear whether there are consistent and systematic biases in teacher populations.  Early work has investigated the ecological validity of these assessments, and whether performance generalizes to in situ measurements (Krolak-Schwerdt et al. 2017).
@@ -504,17 +505,45 @@ Disproportionality is complex (Kramarczuk Voulgaries and Zwerger)
 ### How does this relate to advantages or favortism?
 (see: DiTomaso 2015)
 
+### How does this connect with larger ways to look at social justice within education?
+(see Mitchell et al. 2016 for really wide review of philosophy etc.)
+
+
 ### How does this relate to microaggressions?
 
-### How does this relate to stereotype threat?
+
+### How have people understood opportunity gaps in K12?
+(see Blickenstaff 2005 for core gender; Cimpian et al. 2016 for others)
+(see Reardon and Portilla 2017 for racial and ethnic gaps at kindergarten)
+(see Bassock et al. 2016 for SES gaps, including "more access to educational games on computers")
+"a window into long-standing issues in the educational technology literature around implementation, equity, and student achievement" (Ahn et al. 2016)
+
+### How have people understood gaps in higher education or industry?
+"it is clear that women are less likely to choose certain STEM majors, those who do are no less likely to earn a STEM degree" (King 2016)
+
 
 # Students
 ### Differences in interests?
 "they do not address why these preferences are there in the first place, and why gender differences in preferences for computer science are so different from gender differences in preferences for mathematics…Our analysis reveals that women’s and men’s preferences do not develop in a vacuum but are constrained and expanded by cultural factors" (Cheryan et al. 2017)
 (see Su et al. 2009)
 
-----------------------------
+--------------------------------------------------------
+# Our work
+Video games on implicit bias (University of Wisconsin-Madison)
+Teachers need long-term, but hard to do.  We give inroads into others (eg., Margolis, Milner)
+Measuring transfer to clinical relies on deeper longer partnerships
+Equity practices not widely shared across GSEs (but are across CS teacher preparation)
+
+
+
+
+
+
+
+
+--------------------------------------------------------
 # References
+- Ahn et al. 2016: http://journals.sagepub.com/doi/full/10.1177/2332858416667726
 - Aronson and Laughter 2016: http://journals.sagepub.com/doi/pdf/10.3102/0034654315582066
 - Anwar and Fang 2012: http://repository.cmu.edu/cgi/viewcontent.cgi?article=1350&context=heinzworks
 - Arrow 1973: http://econ.arts.ubc.ca/nfortin/econ560/arrow73.pdf
@@ -526,8 +555,10 @@ Disproportionality is complex (Kramarczuk Voulgaries and Zwerger)
 - Axt et al. 2016b: https://osf.io/u2mbx/
 - Axt 2017: https://osf.io/rbcws/
 - Babad et al. 1989: https://liberalarts.oregonstate.edu/sites/liberalarts.oregonstate.edu/files/psychology/research/babad_bernieri_and_rosenthal_1989_jpsp_nonverbal_communication_and_leakage_in_the_behavior_of_biased_and_unbiased_teachers.pdf
+- Bassock et al. 2016: http://journals.sagepub.com/doi/full/10.1177/2332858416653924
 - Bertrand and Mullainathan 2004: http://datacolada.org/wp-content/uploads/2015/04/bertrand_mullanaithan-1.pdf
 - Bertrand et al. 2005: http://pubs.aeaweb.org/doi/pdfplus/10.1257/000282805774670365
+- Blickenstaff 2005: https://www.researchgate.net/publication/228384649_Women_and_Science_Careers_Leaky_Pipeline_or_Gender_Filter
 - Bohnet et al. 2012: https://scholar.harvard.edu/files/iris_bohnet/files/when_performance_trumps_gender_bias_final.pdf
 - Brescoll et al. 2010: Brescoll et al. 2010: http://gap.hks.harvard.edu/hard-won-and-easily-lost-fragile-status-leaders-gender-stereotype-incongruent-occupations
 - Bristol 2015: https://www.researchgate.net/publication/269998557_Teaching_boys_towards_a_theory_of_gender-relevant_pedagogy
@@ -539,6 +570,7 @@ Disproportionality is complex (Kramarczuk Voulgaries and Zwerger)
 - Change and Demyan 2007: https://www.researchgate.net/publication/232574887_Teachers%27_Stereotypes_of_Asian_Black_and_White_Students
 - Cherng 2017: http://www.sciencedirect.com/science/article/pii/S0049089X16307098
 - Cheryan et al. 2017: https://feministphilosophers.files.wordpress.com/2016/03/cheryan-ziegler-montoya-jiang-in-press-psych-bull-2.pdf
+- Cimpian et al. 2016: http://journals.sagepub.com/doi/full/10.1177/2332858416673617
 - Cohen 1982: http://files.eric.ed.gov/fulltext/ED214750.pdf
 - Cohn-Vargas web 2015: https://www.tolerance.org/magazine/tackling-implicit-bias
 - Cross et al. 1989: http://files.eric.ed.gov/fulltext/ED330171.pdf
@@ -579,6 +611,7 @@ Disproportionality is complex (Kramarczuk Voulgaries and Zwerger)
 - Hatch and Grossman 2009: http://www.tc.columbia.edu/ncrest/exhibitions/learningfrompractice/materials/overview.pdf
 - Hosp and Reschly 2003: https://www.researchgate.net/publication/237619761_Referral_Rates_for_Intervention_or_Assessment_A_Meta-Analysis_of_Racial_Differences
 - Hyland 2009: http://files.eric.ed.gov/fulltext/EJ868916.pdf
+- Iasevoli 2017: http://blogs.edweek.org/edweek/teacherbeat/2017/06/can_a_video_game_help_teachers.html
 - Jacobs et al. 2010: https://www.jstor.org/stable/20720130?seq=1#page_scan_tab_contents
 - Jæger and Møllegaard 2017: http://www.sciencedirect.com/science/article/pii/S0049089X17300339
 - Jigsaw web: https://www.jigsaw.org/pdf/JigsawBasics.pdf
@@ -588,6 +621,7 @@ Disproportionality is complex (Kramarczuk Voulgaries and Zwerger)
 - Jussim et al. 1996: http://www.rcgd.isr.umich.edu/garp/articles/eccles96f.pdf
 - Jussim et al. 2016: http://www.rci.rutgers.edu/~jussim/CDPS.pdf
 - Kahneman 2011: https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555
+- King 2016: http://journals.sagepub.com/doi/full/10.1177/2332858416669709
 - Kramarczuk Voulgaries and Zwerger: http://steinhardt.nyu.edu/scmsAdmin/media/users/cm146/Identifying_the_Root_Causes_of_Disproportionality_1.pdf
 - Kraus 2017: http://m.pnas.org/content/early/2017/09/12/1707719114
 - Krolak-Schwerdt et al. 2017: https://www.researchgate.net/publication/319867684_Teachers%27_Assessments_of_Students%27_Achievements_The_Ecological_Validity_of_Studies_Using_Case_Vignettes
@@ -605,6 +639,7 @@ Disproportionality is complex (Kramarczuk Voulgaries and Zwerger)
 - Mitchell, K. (2013). Race, difference, meritocracy, and English: Majoritarian stories in the education of secondary multilingual learners. Race Ethnicity and Education. 16(3), 339-364. doi:10.1080/13613324.2011.64556
 - McCombs and Gay 1988: https://www.researchgate.net/publication/232522803_Effects_of_Race_Class_and_IQ_Information_on_Judgments_of_Parochial_Grade_School_Teachers
 - Milkman et al. 2015: https://www.apa.org/pubs/journals/releases/apl-0000022.pdf
+- Mitchell et al. 2016: http://journals.sagepub.com/doi/full/10.1177/2332858416660054
 - Moll, L., Amanti, C., Neff, C., & Gonzalez, N. (1992). Funds of knowledge for reaching: Using a qualitative approach to connect homes and classrooms. Theory into Practice, 32(2), 132-141.
 - Myles and Ratzlaff 1988: https://eric.ed.gov/?id=EJ375010
 - Muller et al. 2017: https://drive.google.com/file/d/0B1DHMN8NDLMVU1k2WWZBa0w0VVE/view?usp=sharing
@@ -622,6 +657,7 @@ Disproportionality is complex (Kramarczuk Voulgaries and Zwerger)
 - Pit-Ten Cate 2017: http://orbilu.uni.lu/handle/10993/32082
 - Plata and Masten 1998: https://www.researchgate.net/publication/240241970_Teacher_ratings_of_Hispanic_and_Anglo_students_on_a_behavior_rating_scale
 - Quillian 2017: http://m.pnas.org/content/early/2017/09/11/1706255114.abstract
+- Reardon and Portilla 2017: http://journals.sagepub.com/doi/full/10.1177/2332858416657343
 - Richeson and Shelton 2005: http://groups.psych.northwestern.edu/spcl/documents/thin_slices_000.pdf
 - Romei and Ruggieri 2013: file:///Users/krob/Downloads/TR-11-16%20(1).pdf
 - Rubie-Davies 2009: https://www.researchgate.net/profile/Christine_Rubie-Davies/publication/226053094_Teacher_Expectations_and_Labeling/links/00b49528348d40bec3000000/Teacher-Expectations-and-Labeling.pdf

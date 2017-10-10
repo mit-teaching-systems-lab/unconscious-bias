@@ -38,3 +38,15 @@ Usable by teacher or teacher educators:
 QUOTES
 
 "As a result of the modern overattention to the unintentional aspects of prejudice, researchers have ignored the possibility that some people are motivated to express prejudice (Forscher & Devine, in preparation)" (Forscher and Devine 2016)
+
+
+Medicine and bias, racism, etc:
+
+
+Asian americans in particular re: racism:
+- http://www.racialequitytools.org/resourcefiles/ChangeLab_Left-or-Right-of-the-Color-Line.pdf
+- http://www.tandfonline.com/doi/abs/10.1080/13613324.2017.1377170?tokenDomain=eprints&tokenAccess=7xSg7RbpKFpuGQ6THNdM&forwardService=showFullText&doi=10.1080%2F13613324.2017.1377170&doi=10.1080%2F13613324.2017.1377170&journalCode=cree20
+
+
+Dovidio:
+- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.843.999&rep=rep1&type=pdf

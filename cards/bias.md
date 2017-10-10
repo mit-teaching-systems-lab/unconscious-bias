@@ -3,10 +3,6 @@ layout: small
 title: What is bias?
 ---
 
-Primary sources:
-- Gershenson and Dee
-- Bertrand and Duflo
-- 
 
 ----------------------------
 Programs often struggle to articulate precisely what equity practices look like.  In CS, this is not an issue.
@@ -48,6 +44,7 @@ Well, all there underlying differences in behavior for say suspensions?  Skiba e
 
 Relatedly, "in an average middle school, Black and Hispanic students have less favorable experiences of safety, connectedness, relationships with adults, and opportunities for participation compared to White student" (Voight et al. 2015)
 
+Alternate, Dovidio's conception is "sympathize with victims of past injustice, support principles of racial equality, and genuinely regard themselves as non-prejudiced, but at the same time possess conflicting, often non-conscious, negative feelings and beliefs about blacks" (Dovidio web 2015).
 
 ### How do individual people acquire biases?
 Teachers might form assumptions based on their own individual experiences and history, inaccurate perceptions of population patterns (eg., everyone in the city bikes), or accurate perception of population patterns (eg., most MIT graduates have taken programming classes).  They are "shaped by our lived experiences and the broader social contexts in which we live and work" (Gerhsehson and Dee 2017).
@@ -95,13 +92,15 @@ or prejudicial outcomes" (Cox et al. 2017)
 
 
 ### How can we characterize bias and discrimination in general?
-"a bigot is simply a sociologist without credentials" (D’Souza, 1995 in Uhlmann et al. 2010)
-
 Interdisciplinary work here is important, as "discrimination analysis is a multi-disciplinary problem, involving sociological causes, legal argumentations, economic models, statistical techniques, computational issues" (Romei and Ruggieri 2013).  Uhlmann et al. (2010) cites work across politics, anthropology, econonmics, philosophy, law and psychology.
 
 Core arguments: accuracy (Jussim) or not (Uhlmann et al. 2010).
 
 > Engelhardt describes examples where using patient records to inform medical decisions can lead to erroneous recommendation systems for diagnosis as well as harmful medical interventions. For example, the symptoms of heart disease differ substantially between men and women, and so do their appropriate treatments. Most data collected about this condition was from men, leaving a blind spot for the diagnosis of heart disease in women. Bias, in this case, is useful and should be maintained for correct medical interventions. In another example, however, data was collected from a variety of hospitals in somewhat segregated poor and wealthy areas. The data appear to show that cancers in children from hispanic and caucasian races develop differently. However, inferences based on this data fail to take into account the biasing effect of economic status in determining at which stage of symptoms different families decide seek medical help. In turn, this determines the stage of development at which the oncological data is collected. The recommendation system with this type of bias confuses race with economic barriers to medical help, which will lead to harmful diagnosis and treatments (Zevenbergen web 2017 describing Barbara Engelhardt).
+
+attributed to cultural socialization (Uhlmann and Nosek 2012)
+
+"a bigot is simply a sociologist without credentials" (cautious with controversy: D’Souza, 1995 in Uhlmann et al. 2010) as expression of idea that stereotyping is rational. "the belief that it is rational to discriminate against individuals based on stereotypes about their racial group—correlates highly with negative feelings toward minorities and the desire to keep low-status groups in their place, and correlates negatively with indices of rational thinking." (Uhlmann et al. 2010, cautious of stance).
 
 (Zucker and Prieto 1977)
 
@@ -111,6 +110,8 @@ Statistical discrimination operates "without assuming racial or gender animus, o
 
 > For example, Goldin and Rouse (2000) and Bertrand and Mullainathan (2004), among others,
 studied disparities in employment; Ross (1997) and Ross and Yinger (1999, 2002) in mortgage lending; Knowles, Persico, and Todd (2001), Anwar and Fang (2006), Grogger and Ridgeway (2006) and Antonovics and Knight (2009) in motor vehicle stops and searches; Anwar, Bayer, and Hjalmarsson (2012) in jury decisions; Ayres and Waldfogel (1994) and Bushway and Gelbach (2010) in bail setting; Alesina and La Ferrara (2009) in prosecution and capital sentencing; Mechoulan and Sahuguet (2011) in parole releases; and Price and Wolfers (2010) in sports refereeing.
+
+Application packets for science faculty (Moss-Racusin et al. 2012).
 
 Also in Brescoll et al. 2010, judgements of mistakes in gender-incongruous professions.
 
@@ -145,6 +146,11 @@ distributed across ecologies
 
 
 
+### What could this kind of bias lead to behaviorally?
+"Van Laer and Janssens (2011), Deitch et al. (2003) and Ogbonna and Harris (2006) identify and categorise acts with the defining features of being small with attributional ambiguity. For example, compared with others, a person’s opinion seems to be ignored more frequently, they do not seem to be praised for good work, they get challenging comments about their religion or background, the lift door is
+not held for them, or they have their authority questioned. For each of these micro acts the person cannot be certain that perpetrators have a racial motivation behind their action.  With no prima facie evidence, organisational equality and diversity policy, grievance procedures or discrimination law can offer no support." (Noon 2017)
+
+
 ### What might be the underlying mechanisms?
 (historical: Allport attitudes)
 One hypothesis is related to dual-processing theories (eg., Kahneman 2011, as discussed in Dee and Gershenson 2017).  This in particular implies that unconscious bias will be visible in situations with instantaneous, automatic decision-making (Dee and Gershenson 2017).  A related hypothesis is that "attentional focus attenuates weak automatic influences on judgment" (Greenwald and Banaji 1995).
@@ -165,13 +171,26 @@ Skeptical: "Knowing that someone has sustained a bruised ego tends to be a good 
 
 "This literature suggests that bias correction can occur automatically and without awareness" (see Axt et al. 2016a for citations)
 
+perceived objectivity in hiring (Uhlmann 2007)
 
 ### How can we measure conscious and unconscious bias?
-(core: Bertrand and Duflo, Forscher and Lai, Dovidio, Axt 2017)
+(core: Bertrand and Duflo, Forscher and Lai, Dovidio, Axt 2017, Uhlmann et al. 2012)
 (maybe split out into "How can we measure bias in vignettes or cases?")
 (historical: LaPiere 1934)
+(medical review: Chapman et al. 2013)
+(importance of ambiguity: Dovidio)
+Types: aggregate, individual
+(more: Dovidio & Gaertner, 2004; Knight, Guiliano, & Sanchez-Ross, 2001; Sommers & Ellsworth, 2000; Dovidio and Gaertner 2000; Hodson, Dovidio, & Gaertner, 2002; see also Brief, Dietz, Cohen, Pugh, and Vaslow, 2000, for employment bias against Blacks; Rooth, 2007, for hiring biases against Muslims - all via Dovidio et al. 2017b)
+
+Dovidio et al. 2017b: "implicit attitudes can be assessed through a wide range of methodologies, including response latency tasks, memory tasks, and physiological measures (e.g., heart rate and
+galvanic skin response), as well as indirect self-report measures (e.g., biases in behavioral and trait attributions)"
+
+Challenges with measurement and sensitivity to "the context in
+which the behavior occurs and the type of behavior being examined," with different predictions from different theories (Dovidio et al. 2017b).  Fazio (1999) implicit will better predict spontaneous behaviors versus deliberative behaviors, and where social desirability is present.
 
 Why are we even doing this?  Because of national survey data showing that explicit attitudes around racial equity have changed dramatically over the last few decades (see Lai 2017 for citations).  Yet recent work by Axt (2017) "aligns with work showing relatively high percentages of participants willing to self-report beliefs or motives that may be considered socially unacceptable."  This "highlights that at least some people are quite willing to express preferences, beliefs, and motivations that privilege some groups over others, and that perhaps concerns over social desirability in self-report measures have been overstated" (Axt 2017).  This has been examined in laboratory settings as direct as when participants administer electric shocks (Cox and Devine 2014).
+
+Differences in helping behavior by race not found overall, but within situations where rationalization could explain differences a la aversive racism (Saucier et al. 2005).
 
 "there are no established paradigms used for assessing such biases that (1) are reliable, (2) can distinguish clearly whether bias has occurred within an individual, and (3) are adaptable for a variety of research uses" (Axt el al. 2016a)
 
@@ -195,12 +214,36 @@ Audit or correspondence studies (Bertrand and Duflo), including a recent meta-an
 
 There are also many challenges with generalization of measures, and sensitivity to particular settings.  Social desirability bias may be particularly influential here, where "positive bias in the attitudes of participants when they were surveyed by a university" (Lüke and Grosche 2016).
 
-Gaps between beliefs and action are well-studied in psychology, so that confounds.  But work in teacher development confirms this for racial justice issues.  Maybe "practice spaces" are uniquely suited to this as Viesca 2013 describes: "Further, this case study illustrates the potential inconsistency in teachers claiming to teach for social justice and the practices that emerge from actual beliefs endorsing hegemonic ideologies that distribute power and privilege based on race, class, gender, language, ability, etc."  And several studies "suggest that stereotypes are often expressed implicitly in the behavior of persons
-who explicitly disavow the stereotype" (Greenwald and Banaji 1995).
+Gaps between beliefs and action are well-studied in psychology, so that confounds.  But work in teacher development confirms this for racial justice issues.  Maybe "practice spaces" are uniquely suited to this as Viesca 2013 describes: "Further, this case study illustrates the potential inconsistency in teachers claiming to teach for social justice and the practices that emerge from actual beliefs endorsing hegemonic ideologies that distribute power and privilege based on race, class, gender, language, ability, etc."  And several studies "suggest that stereotypes are often expressed implicitly in the behavior of persons who explicitly disavow the stereotype" (Greenwald and Banaji 1995).
 
 (see Consensual stereotype accuracy, ie "ask them to estimate the college graduation rates for five demographic groups" from Jussim web)
 
 Can we measure from video? (Richeson and Shelton 2005)
+
+in medical clinical simulations, differences in interactions by race were moderated by "patient-centered attitudes in interpersonal skills" (Beach et al. 2007)
+
+In medicine, Green et al. (2007) looked at treatment decisions within vignettes.
+
+(These aren't bias per se, but "cultural bias" is a related term often used)
+Clinical simulations for creating "critical incidents" (Morrell et al. 2002) related to cultural awareness, or for having teachers "pull up short" in conversations with students about race (Self 2016).  
+
+In medicine, "Statistically significant evidence of racist beliefs, emotions or practices among healthcare providers in relation to minority groups was evident in 26 of these studies." (Paradies et al. 2014).
+
+"Many other studies have failed to find any association between providers’ implicit race or class biases and their medical judgments (Haider, Schneider, Sriram, Dossick, et al., 2015; Haider, Schneider, Sriram, Scott, et al., 2015; Haider et al., 2011; Oliver et al., 2014; Sabin et al., 2008)." (Zescott et al. 2016)
+
+Blair et al. (2014 as cited in Zescott et al. 2016) did field measures and found no relation with implicit bias measures.
+
+Ask patients what they think (see Zescott et al. 2016), unclear this correlates with implicit association test, or differences by particular ethnic or racial groups.  With observations looking at "verbal dominance, amount of patient-centered communication, and length of the clinical visit," impacted by white and black patients but impacted patient perception more for black patients (Cooper et al. 2012).
+
+(other: Attitude-Achievement paradox, Mickelson 1990)
+
+aggregate: who is human (Bailey and LaFrance 2017) and look at distribution
+
+### Do any measures of unconscious bias predict behavior in meaningful situations?
+(see our own internal slides)
+(see Josta et al., 2009; Tetlock and Mitchell, 2009)
+(see Blanton and Jaccard 2008)
+(see Noon 2017 for more citations: Kalev et al. 2006, Kowal et al. 2013; Kulik et al. 2000; Bezrukova et al. 2016)
 
 
 ### What confounds can impact resume or vignette studies measuring discrimination?
@@ -208,6 +251,7 @@ Can we measure from video? (Richeson and Shelton 2005)
 (conflict: Jussim 2016 conflicts with Axt JBT study, with Uhlman et al. 2010)
 (core: reasonable inference for other relevant attributes, a la William et al. 2015)
 As Bertrand and Mullainathan (2004) write, "while the names we have used in this experiment strongly signal racial origin, they may also signal some other personal trait."  And as they note, "there is significant variation in callback rates by name," although the sample size is small enough that this may just be from chance (Bertrand and Mullainathan 2004).  Previous work (Fryer and Levitt 2003) has looked at differences in names by race during different periods of time, and correlations with socioeconomic status.
+Others have looked at base rates of names in the population (Silberzahn et al. 2014)
 
 ![callback rates]({{site.baseurl}}/assets/callback-rates.png)
 
@@ -229,28 +273,45 @@ If the dual-processing hypothesis is true, we don't have evidence that these ref
 
 With images, physical attractiveness (see Greenwald and Banaji 1995 for citations)
 
+DIMENSIONS:
+dimensions: decision or relational (see Zescott et al. 2016 for diagram), whether it is ambiguous (Noon 2017; Zescott et al. 2016; Jussim web; Milkman et al. 2015, citing the work of others)
+
+SOCIAL DESIRABILITY:
 Social desirability can influence this.  "To the extent that unconscious bias may be contributing to discrimination, unobtrusive methods for studying discrimination are critical" (Milkman et al. 2015).
+
+AMBIGUITY:
+"greater pro-White biases may be observed by introducing more ambiguity into the materials (e.g., Dovidio & Gaertner, 2000)" (in Axt et al. 2016a)
+
+"a hypothetical scenario may accurately reflect some types of decision scenarios (i.e., careful consideration of written information, no time limit, and judgments that one knows will be carefully analyzed by researchers), other decisions are made under more stressful and ambiguous conditions (e.g., addressing pain complaints in a busy, understaffed emergency department)." (Zescott et al. 2016)
+
+concerns about generalization: "Blair et al. (2014) was conducted under conditions that are likely to mitigate bias: a primary care setting in which patients and providers developed working relationships over the course of many years; processes and outcomes that were made over time, with many opportunities for adjustment; strong organizational expectations for meeting hypertension control guidelines and awareness of the problem of uncontrolled hypertension, particularly among African Americans. Implicit bias may be more likely to affect care delivered outside of established relationships, or in decisions made under time pressure, with limited information, and without the benefit of clear guidelines (Burgess, van Ryn, Dovidio, & Saha, 2007; Stepanikova, 2012)." (Zescott et al. 2016).
+
+dimension: level of rules, like for clinical procedures or school policy (see Zescott et al. 2016 for medical, maybe Cochran-Smith for counterpoint defining social justice as centering student over rules)
 
 The "body of research provides no support whatsoever for the common presumption that the ways and conditions under which people rely on stereotypes routinely reduces person perception accuracy" (Jussim web).
 
 Applying notions of "equal opportunity" (Hardt el al. 2016) don't apply to vignettes and case studies, since "most of the studies examining these issues have examined experimentally created fictitious targets who had no “real” attributes, so that there was no criteria with which to assess accuracy" (Jussim )
 
-"greater pro-White biases may be observed by introducing more ambiguity into the materials (e.g., Dovidio & Gaertner, 2000)" (in Axt et al. 2016a)
-
-
 
 ### What specific stereotypes might people hold?
 (core: Axt)
+background from Milkman et al. (2015):
+"Commonly, Black students are stereotyped as not intelligent and/or not hardworking (Cuddy, Fiske, & Glick, 2007; Steele & Aronson, 1995); Hispanic students are stereotyped as not educated and not fluent in English (Weyant, 2005; Lee & Fiske, 2006); Chinese students are stereotyped as un-American, not fluent in English, and/or possessing fraudulent credentials (Bartlett & Fischer, 2011; Katz & Braly, 1933; Kim & Yeh, 2002); and Indian students are stereotyped as foreign and difficult to understand (Lee & Fiske, 2006; HBS Working Knowledge, 2005; UsingEnglish.com, 2007). Chinese and Indian students also evoke positive academic “model minority” stereotypes (Lin et al., 2005). Females are associated with their own set of negative stereotypes, such as a lack of competence, poor math skills, and/or a lack of professional ambition (Nosek et al., 2007; Heilman, 2001; Rudman & Glick, 2001; Steele, 1997)."
+
+
 - black: poor, jazz, slavery, Harlem, and busing (Greenwald and Banaji 1995, describing Devine 1989)
 - men: greater achievement than women (see Greenwald and Banaji 1995 for citations)
 - men: aggression (see Greenwald and Banaji 1995 for citations)
 - women: dependence (see Greenwald and Banaji 1995 for citations)
 - black: "Morally lax. Criminal. Adulterous. Irresponsible. Unemployed" (Williams et al. 2015) including variations in life history strategy like "reproductive timing, sexual promiscuity, investment in children, investment in education, and inclinations toward risk-taking and opportunistic criminality" (Williams et al. 2015) like "more likely to be sexually unrestricted, impulsive, and engage in socially opportunistic behaviors such as physical aggression and violence" and "arguably the most prominent stereotypes about American blacks are that they are physically threatening, criminally inclined, sexually promiscuous, and disinclined to delay gratification"
 - black: lazy / determined to succeed, dependable / hardworking, aggressive/violent / self-discipline (Peffley, Hurwitz & Sniderman, 1997)
-
+- black: bigger, more threatening (Wilson et al. 2017)
+- Asian: good at math (Lin et al. 2005 for key sitation and more)
 
 ### What can we do to counteract unconscious bias directly?
-(core: habit-breaking workshop.  Forscher, Lai et al. 2016, Burgess 2007; Lai 2017)
+(core: habit-breaking workshop)
+(core psych: Dovidio et al. 2017b; Forscher, Lai et al. 2016; Lai 2017)
+(core medical: Burgess 2007; Teal et al. 2012)
 
 (disagree! "Long before social policies take into account the many divisions and segments of any society, we must contend with the mental barriers to equal treatment" (Lai 2017))
 
@@ -273,17 +334,44 @@ skeptical: underlying psychological mechanism for social categorization based on
 
 "people who are induced with a motivation to be accurate are more likely to rely on individuating information about others, and less likely to depend on their stereotypical expectations" (Ulhmann et al. 2010, citing other work)
 
+shaky, because of psychological underpinnings but maybe: "As with any clinical skill, the progress of learners requires multiple opportunities to practise." (Teal et al. 2012 citing Shute and Gawlick 1995)
+
+critiques: that "agency is overstated by psychology-inspired ‘unconscious bias training’ proponents" (Noon 2017) and that it's unmatched to underlying theories of racism and discrimination.
+
+medical: clinical simulations across cultures with debriefing (see Teal et al. 2012 for more citations).
+
+medical: control strategies like "affirming egalitarian goals, seeking common-group identities, perspective-taking, and individuation via counterstereotyping (Blair et al., 2011; Burgess et al., 2007; Stone & Moskowitz, 2011)." as described in Zescott et al. (2016).  Perspective-taking too.
+
+"...supports the call for developing training modules that, in addition to making providers aware of their biases, provide instruction in how to control implicit bias, and features active learning exercises for practicing the new skills" (Zescott et al. 2016).
+
+"The current literature suggests that there are two key elements for success: (a) instructors need to translate the abstract, theoretical concepts and processes that support the effectiveness of the strategies into practical, concrete clinical skills, and (b) instructors need to develop active learning exercises that allow students the opportunity to practice the skills before they use them in the clinic." (Zescott et al. 2016)
+
+"Whereas some studies suggest that provider bias may negatively impact clinical interactions with stigmatized patients, provider bias has not been consistently linked to worse medical judgment and decisions" (Zescott et al. 2016).
+
+
 
 ### What about prejudice reduction or diversity training more broadly?
 (core: Paluck)
+(see: Dovidio et al. 2017a for intergroup contact)
 (see: KALINOSKI, BEZRUKOVA)
 (strategies: Hollins and Govan book)
-(critique: Noon 2017)
+(see: Moss-Racusin et al. 2016)
 
 Importantly, the approach depends on the theoretical framing, and whether this is a conscious belief, attitude, "intention-behavior discrepancies," or unconscious bias.
 
 Ajzen (1985) proposed the Theory of Planned Behavior, which hypothesizes that intention is a function of attitude towards the behavior, and that this is influenced by perceptions of norms and individual control. (*this is sloppy*).  Many questions about this (see Ajzen 2011 and Haggar 2015 for citations).
 
+Concerns about how unconscious bias training "admonishes the symbolic racist of
+responsibility for their own racially discriminatory action" (Noon 2017).
+"One danger is that UBT is adopted as a quick-fix rather than the start of an on-going and possibly lengthy process of reflection, discussion and awareness-raising, in keeping with cooperative learning approaches" or that "it is
+yet another distraction from the embedded, structural disadvantages within organisations" (Noon 2017).
+
+
+### How do people conceptualize sexism and racism more broadly?
+(see Dovidio et al. 2017b for core, but Noon 2017 has some starts)
+Various conceptions include symbolic racism, modern racism, color-blind racism, ambivalent racism, aversive racism everyday racism, subtle discrimination, micro-aggressions, selective incivility (see Noon 2017 for partial review and more citations).
+
+Aversive racism seems most promising theoretical grounding in psychology for unconscious bias.  It's characterized as "where discrimination against a particular ethnic group can be rationalised by reasons other than race" (Noon 2017) and in terms of measurement, "because aversive racists are hypothesized to be particularly effective at censoring negative behavior toward Blacks, the biases associated with aversive racism may often manifest as differential prosocial responses toward Whites and Blacks in need" (Dovidio et al. 2017b).
 
 ----------------------------
 # In teaching
@@ -360,6 +448,8 @@ Finally, another angle to measuring bias is to look at coarse outcome measures l
 
 In the classroom, TGDS from Oakland, sections 2A, for example "accepts different registers of language and explicitly teach their appropriate use in different contexts (code-switching)" and "addresses systems of power and privilege, even in mono-cultural classrooms, in a way that decreases bias and increases equity (SEL)" (TGDS Handbook 2015).
 
+"premature closure" from medicine, where "learners focus too quickly on patient characteristics to the exclusion of other information" (Teal et al. 2012).
+
 
 
 ### How can we apply this theory to understanding particular teaching decisions?
@@ -371,6 +461,10 @@ Within medicine, Anwar and Fang (2012) tried to distinguish by less empathy with
 
 In attitude research, measurements are often trying to get at underlying attitudes that would be true in many circumstances.  As such, "indirect measures of self-reported racial attitudes introduce construct-irrelevant information; for instance, opinions towards affirmative action involve construct-relevant components, like racial preferences, but also constructirrelevant components, like thoughts on educational policy" (Axt 2017).  However in the context of teacher education, we are less interested in general attitudes and more interested in what influences particular teaching decisions.
 
+"You may find that you have difficulty in identifying your own biases or  assumptions about students, which might cause you to misinterpret student participation or misattribute their success or failure" or "you may lower your expectations for some students" (Core Practices Consortium 2017).  Within "Teaching Society in Mind," "you notice the 
+many small ways that certain people and groups get left out, put down, or erased and you push back against these tendencies" and ""
+
+From helping studies, Saucier et al. (2005) hypothesize that "discrimination may occur when... the arousal of the emergency is misattributed to intergroup anxiety."  This conceivably could apply to classroom management situations.
 
 
 ### What are promising ways to investigate this within teaching?
@@ -386,6 +480,9 @@ In attitude research, measurements are often trying to get at underlying attitud
 "individual differences in shifting standards may also be assessed by first providing participants with relatively objective evaluation criteria (e.g., GPA), and seeing where they then create subjective admission standards for each race." (Axt et al. 2016a)
 
 
+looking at video! (Core Practices Consortium 2017; Sherin; van Es)
+
+
 
 ### What aspects of student identity lead teachers to make assumptions?
 (race, class, gender)
@@ -396,19 +493,18 @@ In attitude research, measurements are often trying to get at underlying attitud
 Unconscious bias may impact "academic performance, engagement with school, course and major choice, and persistence in higher education" (Gershenson and Dee 2017). (?this is a stretch)
 
 
+
 ### What can teachers do about this?
 (core values: get to know your students, treat students as individuals)
 (strategies: empathize, use asset framing, guard)
 (anchor: Gershenson and Dee, Forscher)
 (field: Gregory et al. 2014; Gregory et al. 2016)
 
-From Gregory and Fergus (2017), "to advance equity, educators
-could examine their own conscious and unconscious beliefs, and consider whether they hold negative stereotypes about students’ cultural and stylistic codes... and examine how their unconscious
-beliefs affect their decision-making."
+From Gregory and Fergus (2017), "to advance equity, educators could examine their own conscious and unconscious beliefs, and consider whether they hold negative stereotypes about students’ cultural and stylistic codes... and examine how their unconscious beliefs affect their decision-making."
 
 Video coaching around student expectations (Hafen et al. 2015) can improve expecatations even for students with behavior problems, and has been shown to reduce racial disparities in discipline practices (Gregory et al. 2017).
 
-Practice empathizing with students' experiences (while emphasizing the importance of their own individual responsibility).  (related to Viesca et al. 2014, where "The emphasis has moved from “understanding inequity” to becoming an ally").
+Practice empathizing with students' experiences (while emphasizing the importance of their own individual responsibility).  (related to Viesca et al. 2014, where "The emphasis has moved from “understanding inequity” to becoming an ally").  Individuation and perspective-taking (Chapman et al. 2013).
 
 Practice seeing student strengths.  Building from empathy, "building relationships of care" is a key strategy to disrupt deficit frames (Paris 2015) Finding mismatches between their strengths and interests and school, rather than seeing them as lacking.
 
@@ -416,6 +512,10 @@ In situations that are high-stakes for a student, check when you're making assum
 
 (connect to "we're not average people")
 (envision seeing their future (see Burciaga web, Rafalow))
+
+In contrast to learning about cultural patterns: "rather than learning a stereo- type of African-American patients as mistrustful of doctors, which may or may not be true for any given patient, it is more useful to learn how to recognise signs of mistrust in any patient and to become skilful in building trust in cross-cultural interaction. Focusing learners’ attention on core cross-cultural issues such as mistrust, health beliefs and decision-making customs, rather than cultural group characteristics, will counter tendencies to see all members of social groups as homogeneous" (Teal et al. 2012)
+
+Reflection activities may help, but requires facilitator skill and little evidence exists about how to do this with unconcious bias in particular (Teal et al. 2012).  Other approaches in medicine include "imagery exercises that provoke and then counter common stereotypes, standardised questions that challenge assumptions that may be present during history taking, and real or simulated cases identifying feelings about patients who differ from the subject and are potentially challenging to care for" or perspective-taking exercises viewing scenarios through the eyes of a patient (Teal et al. 2012).
 
 
 ### What are other specific strategies in CS?
@@ -435,7 +535,7 @@ Some teacher educators (eg., Dotger, Self) believe that repeated practice is unl
 ### What gets in the way for teachers?
 (core: Milner, Carlson 2014, our early SIGCSE)
 "majoritarian stories" (Viesca et al. 2014)
-...colorblindness or racial erasure (Milner, Carlson 2014, Mitchell 2013; Gregory and Fergus 2017), deficit view (Milner, Margolis, Carlson 2014, Mitchell 2013), meritocracy (Milner, Mitchell 2013), non-intersectionality (Milner), equity as sameness (Milner), avoidance and employment of the gaze (Carlson), paralogical beliefs and behaviors (Carlson 2014, Valencia 2010).
+...colorblindness or racial erasure (Milner, Carlson 2014, Mitchell 2013; Gregory and Fergus 2017), deficit view (Milner, Margolis, Carlson 2014, Mitchell 2013; see Dovidio et al. 2016 for psychological perspective), meritocracy (Milner, Mitchell 2013), non-intersectionality (Milner), equity as sameness (Milner), avoidance and employment of the gaze (Carlson), paralogical beliefs and behaviors (Carlson 2014, Valencia 2010).
 alternate to Milner: There is no story about race, Difference is deficit, Meritocracy is appropriate (see case study in Viesca 2013)
 (look at Brown and Crippen 2016)
 
@@ -459,6 +559,19 @@ Other researchers (Self, Reed, Brandon) have emphasized the role that frames lik
 Misperceptions of racial economic equity (Kraus 2017)
 
 "prevailing “colorblind” notions of SEL don’t consider power, privilege, and cultural difference—thus ignoring how individual beliefs and structural biases can lead educators to react harshly to behaviors that fall outside a white cultural frame of reference" (Gregory and Fergus 2017)
+
+
+"Public programs about bias can engender negative reactions" (Teal et al. 2010)
+
+In healthcare, differences in normative standards and personal standards, so "consider framing an activity as an exercise in personal development, in contrast to meeting industry standards" (Hernandez et al. 2012)
+
+in medicine, "learners resist recognizing bias... when it conflicts with their perceptions of themselves as humanitarian..." or they may not deem bias within the realm of their professional responsibilities (Teal et al. 2012).  With the IAT in particular, "learners often challenge the validity of the IAT and its value to them as doctors-in-training" (Teal et al. 2012).  In Gonzalez, Kim and Marantz (2014) "22% of the sample doubted the validity of the IAT and the existence of health disparities overall" (as described in Zescott et al. 2016).
+
+
+
+### What kinds of experiences can teacher educators design to help teachers develop skills?
+(video to increasing noticing: van Es, Sherin, Pietri et al. 2016)
+(social psychology interventions in education: Yeager and Walton 2011)
 
 
 ----------------------------
@@ -532,9 +645,16 @@ Disproportionality is complex (Kramarczuk Voulgaries and Zwerger)
 Video games on implicit bias (University of Wisconsin-Madison)
 Teachers need long-term, but hard to do.  We give inroads into others (eg., Margolis, Milner)
 Measuring transfer to clinical relies on deeper longer partnerships
-Equity practices not widely shared across GSEs (but are across CS teacher preparation)
+Equity practices widely shared across GSEs (and then within practice-based teacher education programs)
 
+### Why are practice spaces important for work in equity?
+Opportunities for transfer ("Simulations are by design similar to possible patient encounters, which might improve transfer (of bias awareness) to interactions with real patient" (Teal et al. 2012, citing Croskerry 2009).
 
+much of the workon novices’ beliefs and dispositions was based on reflections and interpretations of practice, rather than embedded in the enactments of the actual tasks of teaching" (Dutro and Cartun 2016, citing Cochran-Smith et al. 2015).
+
+"far fewer studies that investigated how preparation influenced candidates’ practice... [many] generally did not focus on specific teaching tasks and techniques... we need research that links these two viewpoints about practice in new ways that are constructive and complex (Cochran-Smith et al. 2015).
+
+"Practice-immersed methods preparation provides opportunities to experience the complexities of power that permeate learning of teaching practices" and "binaries within metaphors of practice(s) must be continually troubled to ensure that children’s racialized, classed, and gendered positioning in schools is centered within practice-based teacher preparation" (Dutro and Cartun 2016)
 
 
 
@@ -556,11 +676,12 @@ Equity practices not widely shared across GSEs (but are across CS teacher prepar
 - Axt 2017: https://osf.io/rbcws/
 - Babad et al. 1989: https://liberalarts.oregonstate.edu/sites/liberalarts.oregonstate.edu/files/psychology/research/babad_bernieri_and_rosenthal_1989_jpsp_nonverbal_communication_and_leakage_in_the_behavior_of_biased_and_unbiased_teachers.pdf
 - Bassock et al. 2016: http://journals.sagepub.com/doi/full/10.1177/2332858416653924
+- Beach et al. 2007: https://www.ncbi.nlm.nih.gov/pubmed/17264700
 - Bertrand and Mullainathan 2004: http://datacolada.org/wp-content/uploads/2015/04/bertrand_mullanaithan-1.pdf
 - Bertrand et al. 2005: http://pubs.aeaweb.org/doi/pdfplus/10.1257/000282805774670365
 - Blickenstaff 2005: https://www.researchgate.net/publication/228384649_Women_and_Science_Careers_Leaky_Pipeline_or_Gender_Filter
 - Bohnet et al. 2012: https://scholar.harvard.edu/files/iris_bohnet/files/when_performance_trumps_gender_bias_final.pdf
-- Brescoll et al. 2010: Brescoll et al. 2010: http://gap.hks.harvard.edu/hard-won-and-easily-lost-fragile-status-leaders-gender-stereotype-incongruent-occupations
+- Brescoll et al. 2010: http://gap.hks.harvard.edu/hard-won-and-easily-lost-fragile-status-leaders-gender-stereotype-incongruent-occupations
 - Bristol 2015: https://www.researchgate.net/publication/269998557_Teaching_boys_towards_a_theory_of_gender-relevant_pedagogy
 - Brown and Crippen 2016: http://onlinelibrary.wiley.com/doi/10.1002/sce.21250/full
 - Burciaga web: http://www.niusileadscape.org/bl/rebeca-burciaga/
@@ -568,11 +689,14 @@ Equity practices not widely shared across GSEs (but are across CS teacher prepar
 - Carlson 2014: https://drive.google.com/file/d/0B1DHMN8NDLMVaTBha3laWnY2Y1E/view?usp=sharing
 - Chang and Sue 2003: https://www.researchgate.net/publication/10801599_The_effects_of_race_and_problem_type_on_teachers'_assessments_of_student_behavior
 - Change and Demyan 2007: https://www.researchgate.net/publication/232574887_Teachers%27_Stereotypes_of_Asian_Black_and_White_Students
+- Chapman et al. 2013: https://www.ncbi.nlm.nih.gov/pubmed/23576243
 - Cherng 2017: http://www.sciencedirect.com/science/article/pii/S0049089X16307098
 - Cheryan et al. 2017: https://feministphilosophers.files.wordpress.com/2016/03/cheryan-ziegler-montoya-jiang-in-press-psych-bull-2.pdf
 - Cimpian et al. 2016: http://journals.sagepub.com/doi/full/10.1177/2332858416673617
+- Cochran-Smith et al. 2015: https://umaine.edu/edhd/wp-content/uploads/sites/54/2016/06/Journal-of-Teacher-Education-2015-Cochran-Smith-109-21.pdf
 - Cohen 1982: http://files.eric.ed.gov/fulltext/ED214750.pdf
 - Cohn-Vargas web 2015: https://www.tolerance.org/magazine/tackling-implicit-bias
+- Core Practices Consortium 2017: http://coetedd-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/core_practice_primer.pdf
 - Cross et al. 1989: http://files.eric.ed.gov/fulltext/ED330171.pdf
 - Cox and Devine 2014: https://www.ncbi.nlm.nih.gov/pubmed/24335602
 - Cox et al. 2017: http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1236&context=edpsychpapers
@@ -581,6 +705,11 @@ Equity practices not widely shared across GSEs (but are across CS teacher prepar
 - Deming et al. 2014: http://datacolada.org/wp-content/uploads/2016/09/5441-Deming-Yuchtman-Abulafi-Goldin-Katz-AER-2016-Value-of-postsecondary-credentials-in-the-labor-market-an-experimental-study.pdf
 - DiTomaso 2015: https://www.researchgate.net/publication/284014322_Racism_and_discrimination_versus_advantage_and_favoritism_Bias_for_versus_bias_against
 - Domínguez de Ramírez and Shapiro 2005: https://www.researchgate.net/publication/232446054_Effects_of_student_ethnicity_on_judgments_of_ADHD_symptoms_among_Hispanic_and_White_teachers
+- Dovidio et al. 2016: http://onlinelibrary.wiley.com/doi/10.1111/sipr.12017/abstract
+- Dovidio et al. 2017a: http://journals.sagepub.com/doi/abs/10.1177/1368430217712052?journalCode=gpia
+- Dovidio et al. 2017b: http://research.pomona.edu/sci/files/2017/08/dovidio-et-al-2017-cambridge-proof.pdf
+- Dovidio web 2015: https://news.harvard.edu/gazette/story/2015/12/yale-professor-examines-unconscious-biases-by-whites/
+- Dutro and Cartun 2016: https://www.academia.edu/26194752/Cut_to_the_core_practices_Toward_visceral_disruptions_of_binaries_in_PRACTICE-based_teacher_education
 - Elhoweris et al. 2005: http://journals.sagepub.com/doi/abs/10.1177/07419325050260010401
 - Engebretson et al. 2007: https://drive.google.com/file/d/0B1DHMN8NDLMVNVRxYTRVd1VVams/view?usp=sharing
 - Fang and Moro 2011: http://www.sas.upenn.edu/~hfang/publication/moro/final.pdf
@@ -609,6 +738,7 @@ Equity practices not widely shared across GSEs (but are across CS teacher prepar
 - Hagger 2015: http://www.tandfonline.com/doi/full/10.1080/17437199.2015.1034470?src=recsys
 - Hardt et al. 2016: https://arxiv.org/pdf/1610.02413.pdf
 - Hatch and Grossman 2009: http://www.tc.columbia.edu/ncrest/exhibitions/learningfrompractice/materials/overview.pdf
+- Hernandez et al. 2012: Hernandez et al. 2012 :https://www.researchgate.net/publication/232718178_Fostering_students%27_reflection_about_bias_in_healthcare_Cognitive_dissonance_and_the_role_of_personal_and_normative_standards
 - Hosp and Reschly 2003: https://www.researchgate.net/publication/237619761_Referral_Rates_for_Intervention_or_Assessment_A_Meta-Analysis_of_Racial_Differences
 - Hyland 2009: http://files.eric.ed.gov/fulltext/EJ868916.pdf
 - Iasevoli 2017: http://blogs.edweek.org/edweek/teacherbeat/2017/06/can_a_video_game_help_teachers.html
@@ -630,6 +760,7 @@ Equity practices not widely shared across GSEs (but are across CS teacher prepar
 - Lai 2017: http://www.people.fas.harvard.edu/~banaji/research/publications/articles/2017_Lai.pdf
 - Lawrence and Tatum 2012: https://www.teachingforchange.org/wp-content/uploads/2012/08/ec_whiteracialidentity_english.pdf
 - Lilienfield 2017: http://journals.sagepub.com/doi/pdf/10.1177/1745691616659391
+- Lin et al. 2005: http://journals.sagepub.com/doi/pdf/10.1177/0146167204271320
 - Lindsay and Hart 2017: http://journals.sagepub.com/doi/abs/10.3102/0162373717693109
 - Low and Clement 1982: https://www.researchgate.net/publication/256271658_Relationships_of_race_and_socioeconomic_status_to_classroom_behavior_academic_achievement_and_referral_for_special_education
 - Lüke and Grosche 2016: http://www.tandfonline.com/eprint/DFxR24HXggkF96ybtem9/full
@@ -641,16 +772,20 @@ Equity practices not widely shared across GSEs (but are across CS teacher prepar
 - Milkman et al. 2015: https://www.apa.org/pubs/journals/releases/apl-0000022.pdf
 - Mitchell et al. 2016: http://journals.sagepub.com/doi/full/10.1177/2332858416660054
 - Moll, L., Amanti, C., Neff, C., & Gonzalez, N. (1992). Funds of knowledge for reaching: Using a qualitative approach to connect homes and classrooms. Theory into Practice, 32(2), 132-141.
+- Moss-Racusin et al. 2012: http://www.pnas.org/content/109/41/16474.full
+- Moss-Racusin et al. 2016: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5008876/
 - Myles and Ratzlaff 1988: https://eric.ed.gov/?id=EJ375010
 - Muller et al. 2017: https://drive.google.com/file/d/0B1DHMN8NDLMVU1k2WWZBa0w0VVE/view?usp=sharing
 - Narayanan tweet 2017: https://twitter.com/random_walker/status/909771947411738624
 - Noon 2017: https://www.researchgate.net/publication/319440804_Pointless_diversity_training_Unconscious_bias_new_racism_and_agency?citedPublicationUid=308040743
 - Okonofua and Eberhardt 2015: https://www.americanbar.org/content/dam/aba/events/youth_at_risk/Okonofua%20%20Eberhardt%20-%20Two%20Strikes%20-%20Race%20and%20the%20Disciplining%20of%20Young%20Students%20(1).authcheckdam.pdf
+- Paradies et al. 2014: https://www.ncbi.nlm.nih.gov/pubmed/24002624
 - Paris 2015: http://www.teachingworks.org/images/files/TeachingWorks_Paris.pdf
 - Parks and Kennedy 2007: https://www.researchgate.net/publication/240702703_The_Impact_of_Race_Physical_Attractiveness_and_Gender_On_Education_Majors%27_and_Teachers%27_Perceptions_of_Student_Competence
 - Pedreschi et al. 2008: http://dl.acm.org/citation.cfm?id=1401959
 - Phelps 1972: https://www.jstor.org/stable/1806107?seq=1
 - Pietraszewski et al. 2014 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088534
+- Pietri et al. 2016: http://journals.sagepub.com/doi/abs/10.1177/0361684316674721
 - Pit-Ten Cate 2016: https://www.researchgate.net/publication/310135256_Theoretical_knowledge_and_formal_decision_rules_Can_we_reduce_bias_in_orientation_decisions
 - Pit-Ten Cate 2017: http://orbilu.uni.lu/handle/10993/32081
 - Pit-Ten Cate 2017: http://orbilu.uni.lu/handle/10993/30528
@@ -663,15 +798,23 @@ Equity practices not widely shared across GSEs (but are across CS teacher prepar
 - Rubie-Davies 2009: https://www.researchgate.net/profile/Christine_Rubie-Davies/publication/226053094_Teacher_Expectations_and_Labeling/links/00b49528348d40bec3000000/Teacher-Expectations-and-Labeling.pdf
 - Rubie-Davies et al. 2012: http://ac.els-cdn.com/S1877042812053931/1-s2.0-S1877042812053931-main.pdf?_tid=0fa4cb3e-9cbc-11e7-80df-00000aacb35d&acdnat=1505771898_3f52753b2fcd981cf75363e05908d0c5
 - Rudman and Ashmore 2007: http://journals.sagepub.com/doi/abs/10.1177/1368430207078696
+- Saucier et al. 2005: https://www.ncbi.nlm.nih.gov/pubmed/15745861
 - Schneider and Grimes 1993: https://www.researchgate.net/publication/15064901_Potential_Bias_in_Teacher_Referrals_to_the_School_Nurse
 - Self 2016: http://etd.library.vanderbilt.edu/available/etd-03022016-165211/unrestricted/Self.pdf
+- Silberzahn et al. 2014: http://journals.sagepub.com/doi/pdf/10.1177/0956797614533802
 - Simoiu et al. 2016: https://5harad.com/papers/threshold-test.pdf
 - Simonsohn 2016: http://datacolada.org/51
 - Skiba et al. 2012: https://pdfs.semanticscholar.org/a28f/a62d19955ab840af62b42fa4c2d82a017d1f.pdf
 - Stinnett et al. 2001: http://onlinelibrary.wiley.com/doi/10.1002/pits.1045/abstract
 - Su et al. 2009: http://emilkirkegaard.dk/en/wp-content/uploads/Men-and-things-women-and-people-A-meta-analysis-of-sex-differences-in-interests.pdf
+- Teal el al. 2010: https://link.springer.com/article/10.1007%2Fs11606-009-1243-y
+- Teal et al. 2012: https://pdfs.semanticscholar.org/d946/d259d3cb903c63dbb6da610b93982fb47a27.pdf
 - Tenenbaum and Ruck 2007: https://www.researchgate.net/publication/38174600_Are_Teachers%27_Expectations_Different_for_Racial_Minority_Than_for_European_American_Students_A_Meta-Analysis
 - TDS Handbook 2015: http://www.nctq.org/docs/TGDS_Manual_15-16_FINAL_8-4-15.pdf
+- Uhlmann 2007: http://psycnet.apa.org/record/2007-99012-025
+- Uhlmann and Nosek 2012: http://socialjudgments.com/docs/Uhlmann_Nosek_2012.pdf
+- Uhlmann et al. 2012: http://journals.sagepub.com/doi/full/10.1177/1094428112442750
+- Uhlmann et al. 2010: http://www.socialjudgments.com/docs/Uhlmann_Brescoll_Machery_2010.pdf
 - Valencia, R. R. (2010). Dismantling contemporary deficit thinking: Educational thought and practice.  https://www.amazon.com/Dismantling-Contemporary-Deficit-Thinking-Educational/dp/0415877105
 - van Es and Sherin 2002: https://www.researchgate.net/profile/Elizabeth_Van_Es/publication/252692170_Learning_to_Notice_Scaffolding_New_Teachers%27_Interpretations_of_Classroom_Interactions/links/02e7e535fd38f7c78e000000/Learning-to-Notice-Scaffolding-New-Teachers-Interpretations-of-Classroom-Interactions.pdf
 - Viesca 2013: http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1210&context=teachlearnfacpub
@@ -679,9 +822,12 @@ Equity practices not widely shared across GSEs (but are across CS teacher prepar
 - Voight et al. 2015: https://link.springer.com/article/10.1007%2Fs10464-015-9751-x
 - Wattenberg et al. 2016: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
 - Williams et al. 2015: http://www.pnas.org/content/113/2/310?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Proc_Natl_Acad_Sci_U_S_A_TrendMD_0
+- Wilson et al. 2017: https://www.researchgate.net/publication/317951449_Racial_bias_in_judgments_of_physical_size_and_formidability_From_size_to_threat
 - Wong et al. 2014: https://nyuscholars.nyu.edu/en/publications/the-what-the-why-and-the-how-a-review-of-racial-microaggressions-
 - Yanisko 2016: http://ed-osprey.gsu.edu/ojs/index.php/JUME/article/view/262/203
+- Yeager and Walton 2011: http://journals.sagepub.com/doi/abs/10.3102/0034654311405999
 - Yeager et al. 2014: https://www.apa.org/pubs/journals/releases/xge-a0033906.pdf
 - Young 2010: https://www.researchgate.net/publication/249704861_Challenges_to_Conceptualizing_and_Actualizing_Culturally_Relevant_Pedagogy_How_Viable_Is_the_Theory_in_Classroom_Practice
+- Zescott et al. 2016: https://www.researchgate.net/publication/302593713_Examining_the_Presence_Consequences_and_Reduction_of_Implicit_Bias_in_Health_Care_A_Narrative_Review
 - Zevenbergen web 2017: https://freedom-to-tinker.com/2017/09/18/getting-serious-about-research-ethics-ai-and-machine-learning/
 - Zucker and Preito 1977: https://www.researchgate.net/publication/287445737_Ethnicity_and_teacher_bias_in_educational_decisions

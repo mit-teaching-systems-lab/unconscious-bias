@@ -104,7 +104,7 @@ attributed to cultural socialization (Uhlmann and Nosek 2012)
 
 (Zucker and Prieto 1977)
 
-In economics, there are several models of discrimination, including taste-based (Becker 1961), statistical discrimination (Phelps 1972; Arrow 1973) but "taste-based and statistical discrimination theories... are extremely difficult to distinguish in terms of observable behaviors" (Fernandez and Greenberg 2013).
+In economics, there are several models of discrimination, including taste-based (Becker 1961), statistical discrimination (Phelps 1972; Arrow 1973) but "taste-based and statistical discrimination theories... are extremely difficult to distinguish in terms of observable behaviors" (Fernandez and Greenberg 2013).  Government hours study suggesting taste-based (Giuletti et al. 2017).
 
 Statistical discrimination operates "without assuming racial or gender animus, or preference bias, against members of a targeted group" (Fang and Moro 2011).  Echoing the review in Anwar and Fang (2012), this has been studied by many researchers:
 
@@ -145,7 +145,6 @@ In the United States, races are differentially
 distributed across ecologies
 
 
-
 ### What could this kind of bias lead to behaviorally?
 "Van Laer and Janssens (2011), Deitch et al. (2003) and Ogbonna and Harris (2006) identify and categorise acts with the defining features of being small with attributional ambiguity. For example, compared with others, a person’s opinion seems to be ignored more frequently, they do not seem to be praised for good work, they get challenging comments about their religion or background, the lift door is
 not held for them, or they have their authority questioned. For each of these micro acts the person cannot be certain that perpetrators have a racial motivation behind their action.  With no prima facie evidence, organisational equality and diversity policy, grievance procedures or discrimination law can offer no support." (Noon 2017)
@@ -172,6 +171,9 @@ Skeptical: "Knowing that someone has sustained a bruised ego tends to be a good 
 "This literature suggests that bias correction can occur automatically and without awareness" (see Axt et al. 2016a for citations)
 
 perceived objectivity in hiring (Uhlmann 2007)
+
+Expectation States Theory (Correll and Ridgeway 2006)
+
 
 ### How can we measure conscious and unconscious bias?
 (core: Bertrand and Duflo, Forscher and Lai, Dovidio, Axt 2017, Uhlmann et al. 2012)
@@ -312,6 +314,7 @@ background from Milkman et al. (2015):
 (core: habit-breaking workshop)
 (core psych: Dovidio et al. 2017b; Forscher, Lai et al. 2016; Lai 2017)
 (core medical: Burgess 2007; Teal et al. 2012)
+(look at Weld 2014 for review)
 
 (disagree! "Long before social policies take into account the many divisions and segments of any society, we must contend with the mental barriers to equal treatment" (Lai 2017))
 
@@ -398,8 +401,10 @@ Or maybe no effect based on teacher characteristics (McKown and Weinstein 2008).
 
 "The evidence from both experimental and naturalistic studies indicates that people apply their stereotypes when judging others approximately rationally.  When individuating information is absent or ambiguous, stereotypes often influence person perception.  When individuating information is clear and relevant, its effects are “massive” (Kunda & Thagard, 1996, yes, that is a direct quote, p. 292), and stereotype effects tend to be weak or nonexistent.  This puts the lie to longstanding claims that “stereotypes lead people to ignore individual differences.”" (Jussim web)
 
+self-efficacy and confidence in college CS courses (Alvarado et al. 2017)
 
 ### How else might "it" impact teaching?
+(core: Quintero 2014)
 (core: deficit is milner, margolis, Carlson 2014, valencia 2010)
 (making assumptions about students based on some attribute about them, interpreting a situation with a student in one particular way based on assumptions about their intention, motivation, etc.)
 (expectations)
@@ -451,6 +456,10 @@ In the classroom, TGDS from Oakland, sections 2A, for example "accepts different
 "premature closure" from medicine, where "learners focus too quickly on patient characteristics to the exclusion of other information" (Teal et al. 2012).
 
 
+"Studies show that people who deal differently
+with ethical dilemmas also differ in their perceptions (Felton & Sims, 2005; Peppas, 2002; Swanson, 2005)." (Shapira-Lishchinsky 2011).  Also "investigate whether there are discrepancies between teachers’ perceptions of the ‘official policies’ and their ‘tendency to act,’ based on their ethical decision-making" (Shapira-Lishchinsky and Gilat 2015).
+
+
 
 ### How can we apply this theory to understanding particular teaching decisions?
 While much progress has been made in articulating how statistical discrimination in particular might naturally lead to biased decisions (citation), "distinguishing desirable bias from harmful bias in data science is hard, and requires domain expertise" (Narayanan tweet 2017).  This is particularly true in a profession like teaching, which is "a complex, situated, and ill-defined activity" (Hatch and Grossman 2009).
@@ -492,6 +501,8 @@ looking at video! (Core Practices Consortium 2017; Sherin; van Es)
 ### Where can bias most impact students?
 Unconscious bias may impact "academic performance, engagement with school, course and major choice, and persistence in higher education" (Gershenson and Dee 2017). (?this is a stretch)
 
+"We underline the term hypothetical because there is not yet, to our knowledge, any direct evidence that the implicit racial bias held by decision-makers in the disciplinary chain contributes to the disproportionate numbers of children of color who are severely punished in schools." (Weld 2014)
+
 
 
 ### What can teachers do about this?
@@ -509,6 +520,8 @@ Practice empathizing with students' experiences (while emphasizing the importanc
 Practice seeing student strengths.  Building from empathy, "building relationships of care" is a key strategy to disrupt deficit frames (Paris 2015) Finding mismatches between their strengths and interests and school, rather than seeing them as lacking.
 
 In situations that are high-stakes for a student, check when you're making assumptions that shape your judgments, evaluations or decisions about them.
+
+Counteract stratification by enforcing equal status within the classroom (Cohen and Lotan 1985)
 
 (connect to "we're not average people")
 (envision seeing their future (see Burciaga web, Rafalow))
@@ -578,6 +591,8 @@ in medicine, "learners resist recognizing bias... when it conflicts with their p
 # Mixing perspectives
 ### How can we describe teacher development related to bias, cultural awareness and culturaly competency?
 
+### What about ethical and moral development?
+see Shapira-Lishchinsky 2011
 
 ### How promising is unconscious bias as an intervenion point, as compared to other approaches like culturally responsive teaching, structural elements, or explicit systems of advantage and favortism?
 (see Milkman in that these were all anonymous letters, same for Mullaithan)
@@ -605,6 +620,8 @@ see also funds of knowledge, pedagogical third space
 cooperative learning (Cohen 1982; Aronson; Jigsaw web)
 
 ### What does bias have to do with strategies like disrupting preparatory privilege?
+
+"female students with prior exposure outperform their male peers in all areas" (see Wilcox SIGCSE 2018)
 
 ### What does bias have to do with colorblindness?
 
@@ -648,6 +665,8 @@ Measuring transfer to clinical relies on deeper longer partnerships
 Equity practices widely shared across GSEs (and then within practice-based teacher education programs)
 
 ### Why are practice spaces important for work in equity?
+(core Dotger and Ashby 2010; Dutro and Cartun 2016)
+
 Opportunities for transfer ("Simulations are by design similar to possible patient encounters, which might improve transfer (of bias awareness) to interactions with real patient" (Teal et al. 2012, citing Croskerry 2009).
 
 much of the workon novices’ beliefs and dispositions was based on reflections and interpretations of practice, rather than embedded in the enactments of the actual tasks of teaching" (Dutro and Cartun 2016, citing Cochran-Smith et al. 2015).
@@ -656,6 +675,7 @@ much of the workon novices’ beliefs and dispositions was based on reflections 
 
 "Practice-immersed methods preparation provides opportunities to experience the complexities of power that permeate learning of teaching practices" and "binaries within metaphors of practice(s) must be continually troubled to ensure that children’s racialized, classed, and gendered positioning in schools is centered within practice-based teacher preparation" (Dutro and Cartun 2016)
 
+Education leaders (Shapira-Lishchinsky 2014)
 
 
 
@@ -664,6 +684,7 @@ much of the workon novices’ beliefs and dispositions was based on reflections 
 --------------------------------------------------------
 # References
 - Ahn et al. 2016: http://journals.sagepub.com/doi/full/10.1177/2332858416667726
+- Alvarado et al. 2017: https://dl.acm.org/citation.cfm?id=3017771
 - Aronson and Laughter 2016: http://journals.sagepub.com/doi/pdf/10.3102/0034654315582066
 - Anwar and Fang 2012: http://repository.cmu.edu/cgi/viewcontent.cgi?article=1350&context=heinzworks
 - Arrow 1973: http://econ.arts.ubc.ca/nfortin/econ560/arrow73.pdf
@@ -695,8 +716,10 @@ much of the workon novices’ beliefs and dispositions was based on reflections 
 - Cimpian et al. 2016: http://journals.sagepub.com/doi/full/10.1177/2332858416673617
 - Cochran-Smith et al. 2015: https://umaine.edu/edhd/wp-content/uploads/sites/54/2016/06/Journal-of-Teacher-Education-2015-Cochran-Smith-109-21.pdf
 - Cohen 1982: http://files.eric.ed.gov/fulltext/ED214750.pdf
+- Cohen and Lotan 1985: http://journals.sagepub.com/doi/abs/10.3102/00028312032001099
 - Cohn-Vargas web 2015: https://www.tolerance.org/magazine/tackling-implicit-bias
 - Core Practices Consortium 2017: http://coetedd-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/core_practice_primer.pdf
+- Correll and Ridgeway 2006: https://drive.google.com/file/d/0B1DHMN8NDLMVZUNfTUREZDU5S3c/view?usp=sharing
 - Cross et al. 1989: http://files.eric.ed.gov/fulltext/ED330171.pdf
 - Cox and Devine 2014: https://www.ncbi.nlm.nih.gov/pubmed/24335602
 - Cox et al. 2017: http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1236&context=edpsychpapers
@@ -726,6 +749,7 @@ much of the workon novices’ beliefs and dispositions was based on reflections 
 - Gawronski and Bodenhausen 2014: http://www.bertramgawronski.com/documents/GB2014SPCO.pdf
 - Gershenson et al. 2015: http://research.upjohn.org/cgi/viewcontent.cgi?article=1248&context=up_workingpapers
 - Gilliam et al. 2016: http://ziglercenter.yale.edu/publications/Preschool%20Implicit%20Bias%20Policy%20Brief_final_9_26_276766_5379.pdf
+- Giuletti et al. 2017: https://fb44aa09-a-62cb3a1a-s-sites.googlegroups.com/site/mircotonin/racialdiscrimination_2017_09_25.pdf
 - Glock 2016: https://www.researchgate.net/publication/296700682_Stop_talking_out_of_turn_The_influence_of_students%27_gender_and_ethnicity_on_preservice_teachers%27_intervention_strategies_for_student_misbehavior
 - Glock and Klapproth 2017: https://drive.google.com/file/d/0B1DHMN8NDLMVb3NyVF9qbU03Ums/view?usp=sharing
 - Greenwald and Banaji 1995: https://faculty.washington.edu/agg/pdf/Greenwald_Banaji_PsychRev_1995.OCR.pdf
@@ -792,6 +816,9 @@ much of the workon novices’ beliefs and dispositions was based on reflections 
 - Pit-Ten Cate 2017: http://orbilu.uni.lu/handle/10993/32082
 - Plata and Masten 1998: https://www.researchgate.net/publication/240241970_Teacher_ratings_of_Hispanic_and_Anglo_students_on_a_behavior_rating_scale
 - Quillian 2017: http://m.pnas.org/content/early/2017/09/11/1706255114.abstract
+- Quintero 2014a: http://www.shankerinstitute.org/blog/what-implicit-bias-and-how-might-it-affect-teachers-and-students-part-i
+- Quintero 2014b: http://www.shankerinstitute.org/blog/what-implicit-bias-and-how-might-it-affect-teachers-and-students-part-ii-solutions
+- Quintero 2014c: http://www.shankerinstitute.org/blog/why-diverse-teaching-force
 - Reardon and Portilla 2017: http://journals.sagepub.com/doi/full/10.1177/2332858416657343
 - Richeson and Shelton 2005: http://groups.psych.northwestern.edu/spcl/documents/thin_slices_000.pdf
 - Romei and Ruggieri 2013: file:///Users/krob/Downloads/TR-11-16%20(1).pdf
@@ -801,6 +828,10 @@ much of the workon novices’ beliefs and dispositions was based on reflections 
 - Saucier et al. 2005: https://www.ncbi.nlm.nih.gov/pubmed/15745861
 - Schneider and Grimes 1993: https://www.researchgate.net/publication/15064901_Potential_Bias_in_Teacher_Referrals_to_the_School_Nurse
 - Self 2016: http://etd.library.vanderbilt.edu/available/etd-03022016-165211/unrestricted/Self.pdf
+- Shapira-Lishchinsky 2011: http://education.biu.ac.il/files/education/shared/tate_shapira__2_feb_2011_0.pdf
+- Shapira-Lishchinsky 2014: http://education.biu.ac.il/files/education/shared/educational_management_administration__
+leadership-2014-shapira-lishchinsky-1741143214543203.pdf
+- Shapira-Lishchinsky and Gilat 2015: http://www.redalyc.org/html/2750/275041389052/
 - Silberzahn et al. 2014: http://journals.sagepub.com/doi/pdf/10.1177/0956797614533802
 - Simoiu et al. 2016: https://5harad.com/papers/threshold-test.pdf
 - Simonsohn 2016: http://datacolada.org/51
@@ -821,6 +852,7 @@ much of the workon novices’ beliefs and dispositions was based on reflections 
 - Viesca et al. 2014: https://www.researchgate.net/publication/301634177_Push_it_Real_Good_The_Challenge_of_Disrupting_Dominant_Discourses_Regarding_Race_in_Teacher_Education
 - Voight et al. 2015: https://link.springer.com/article/10.1007%2Fs10464-015-9751-x
 - Wattenberg et al. 2016: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
+- Weld 2014: http://www.indiana.edu/~atlantic/wp-content/uploads/2014/03/Implicit-Bias_031214.pdf
 - Williams et al. 2015: http://www.pnas.org/content/113/2/310?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Proc_Natl_Acad_Sci_U_S_A_TrendMD_0
 - Wilson et al. 2017: https://www.researchgate.net/publication/317951449_Racial_bias_in_judgments_of_physical_size_and_formidability_From_size_to_threat
 - Wong et al. 2014: https://nyuscholars.nyu.edu/en/publications/the-what-the-why-and-the-how-a-review-of-racial-microaggressions-

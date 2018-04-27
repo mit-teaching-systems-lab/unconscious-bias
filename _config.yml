@@ -7,7 +7,7 @@ defaults:
       layout: "small"
 
 teachermoments:
-  demo_url: https://threeflows.herokuapp.com/teachermoments/bias
+  demo_url: https://teachermoments.teachingsystemslab.org/equity?web
 
 baseurl: /unconscious-bias
 email: krob@mit.edu
